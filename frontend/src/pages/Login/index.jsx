@@ -2,7 +2,8 @@ import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { motion } from 'framer-motion'
 import { Phone, Mail, Lock, Eye, EyeOff, Shield, Building2, Eye as EyeIcon } from 'lucide-react'
-import { useStore, DEMO_ACCOUNTS } from '../../store/useStore'
+import { useEffect } from 'react'
+import { useStore } from '../../store/useStore'
 
 const ROLE_META = {
   admin:         { label: 'Org Admin',       color: '#4F664A', bg: '#F1F5EE', border: '#C7D5BD', icon: Shield },
@@ -18,7 +19,11 @@ const INK_MUTED = '#7A7A7A'
 
 export default function Login() {
   const navigate = useNavigate()
-  const { login, loading } = useStore()
+  const { login, loading, demoAccounts, fetchDemoAccounts } = useStore()
+
+  useEffect(() => {
+    fetchDemoAccounts()
+  }, [fetchDemoAccounts])
   const [email, setEmail] = useState('')
   const [password, setPassword] = useState('')
   const [showPass, setShowPass] = useState(false)
@@ -77,7 +82,7 @@ export default function Login() {
               <span style={{ fontSize: 10, color: INK_MUTED }}>click to fill</span>
             </div>
             <div style={{ display: 'flex', flexDirection: 'column', gap: 8, maxHeight: 360, overflowY: 'auto', paddingRight: 4 }}>
-              {DEMO_ACCOUNTS.map((acct, i) => {
+              {demoAccounts.map((acct, i) => {
                 const meta = ROLE_META[acct.user.role] || ROLE_META.admin
                 const Icon = meta.icon
                 return (
@@ -172,7 +177,7 @@ export default function Login() {
             {loading ? 'Signing in...' : 'Sign In to Dashboard'}
           </motion.button>
 
-          <button className="btn-secondary" style={{ width: '100%', padding: 13, fontSize: 13 }} onClick={() => fillCreds(DEMO_ACCOUNTS[0])}>
+          <button className="btn-secondary" style={{ width: '100%', padding: 13, fontSize: 13 }} onClick={() => demoAccounts.length > 0 && fillCreds(demoAccounts[0])}>
             Use Org Admin Demo Credentials
           </button>
 

@@ -142,4 +142,76 @@ router.put('/me/password', authenticate,
   }
 )
 
+// GET /api/auth/demo-accounts (dev-only endpoint to serve demo credentials)
+router.get('/demo-accounts', (req, res) => {
+  // Passwords can be overridden via environment variables
+  const accounts = [
+    {
+      email: 'admin@aditya.edu.in',
+      password: process.env.DEMO_PASSWORD_ADMIN || 'demo-admin-pass',
+      user: {
+        id: 'usr-aditya-admin',
+        name: 'Aditya Satyalokesh',
+        email: 'admin@aditya.edu.in',
+        phone: '+91 98765 43210',
+        role: 'admin',
+        orgId: 'org-aditya-001',
+        orgName: 'Aditya Educational Institutions',
+        avatar: null,
+        createdAt: '2025-09-12T10:30:00.000Z',
+      },
+    },
+    {
+      email: 'viewer@aditya.edu.in',
+      password: process.env.DEMO_PASSWORD_VIEWER || 'demo-viewer-pass',
+      user: {
+        id: 'usr-aditya-viewer',
+        name: 'Riya Menon',
+        email: 'viewer@aditya.edu.in',
+        phone: '+91 90000 12345',
+        role: 'viewer',
+        orgId: 'org-aditya-001',
+        orgName: 'Aditya Educational Institutions',
+        avatar: null,
+        createdAt: '2025-10-04T09:00:00.000Z',
+      },
+    },
+    {
+      email: 'principal.adu@aditya.edu.in',
+      password: process.env.DEMO_PASSWORD_ADU || 'demo-adu-pass',
+      user: {
+        id: 'usr-college-adu',
+        name: 'Dr. Suresh Reddy',
+        email: 'principal.adu@aditya.edu.in',
+        phone: '+91 98480 11122',
+        role: 'college_admin',
+        orgId: 'org-aditya-001',
+        orgName: 'Aditya Educational Institutions',
+        collegeIds: ['col-aditya-univ'],
+        collegeName: 'Aditya University',
+        avatar: null,
+        createdAt: '2025-09-15T08:00:00.000Z',
+      },
+    },
+    {
+      email: 'principal.aec@aditya.edu.in',
+      password: process.env.DEMO_PASSWORD_AEC || 'demo-aec-pass',
+      user: {
+        id: 'usr-college-aec',
+        name: 'Dr. Lakshmi Iyer',
+        email: 'principal.aec@aditya.edu.in',
+        phone: '+91 98480 22233',
+        role: 'college_admin',
+        orgId: 'org-aditya-001',
+        orgName: 'Aditya Educational Institutions',
+        collegeIds: ['col-aditya-eng'],
+        collegeName: 'Aditya Engineering College',
+        avatar: null,
+        createdAt: '2025-09-18T08:00:00.000Z',
+      },
+    },
+  ];
+  res.json(accounts);
+})
+
 module.exports = router

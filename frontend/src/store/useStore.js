@@ -42,123 +42,7 @@ const DEMO_ORG = {
  * App.jsx restrict that user to dashboards/reports for those college IDs only.
  */
 // Addresses Evaluator Improvement #6: "Demo passwords hardcoded in frontend store"
-export const DEMO_ACCOUNTS = [
-  {
-    email: 'admin@aditya.edu.in',
-    password: import.meta.env.VITE_DEMO_PASSWORD_ADMIN,
-    user: {
-      id: 'usr-aditya-admin',
-      name: 'Aditya Satyalokesh',
-      email: 'admin@aditya.edu.in',
-      phone: '+91 98765 43210',
-      role: 'admin',
-      orgId: 'org-aditya-001',
-      orgName: 'Aditya Educational Institutions',
-      avatar: null,
-      createdAt: '2025-09-12T10:30:00.000Z',
-    },
-  },
-  {
-    email: 'viewer@aditya.edu.in',
-    password: import.meta.env.VITE_DEMO_PASSWORD_VIEWER,
-    user: {
-      id: 'usr-aditya-viewer',
-      name: 'Riya Menon',
-      email: 'viewer@aditya.edu.in',
-      phone: '+91 90000 12345',
-      role: 'viewer',
-      orgId: 'org-aditya-001',
-      orgName: 'Aditya Educational Institutions',
-      avatar: null,
-      createdAt: '2025-10-04T09:00:00.000Z',
-    },
-  },
-  {
-    email: 'principal.adu@aditya.edu.in',
-    password: import.meta.env.VITE_DEMO_PASSWORD_ADU,
-    user: {
-      id: 'usr-college-adu',
-      name: 'Dr. Suresh Reddy',
-      email: 'principal.adu@aditya.edu.in',
-      phone: '+91 98480 11122',
-      role: 'college_admin',
-      orgId: 'org-aditya-001',
-      orgName: 'Aditya Educational Institutions',
-      collegeIds: ['col-aditya-univ'],
-      collegeName: 'Aditya University',
-      avatar: null,
-      createdAt: '2025-09-15T08:00:00.000Z',
-    },
-  },
-  {
-    email: 'principal.aec@aditya.edu.in',
-    password: import.meta.env.VITE_DEMO_PASSWORD_AEC,
-    user: {
-      id: 'usr-college-aec',
-      name: 'Dr. Lakshmi Iyer',
-      email: 'principal.aec@aditya.edu.in',
-      phone: '+91 98480 22233',
-      role: 'college_admin',
-      orgId: 'org-aditya-001',
-      orgName: 'Aditya Educational Institutions',
-      collegeIds: ['col-aditya-eng'],
-      collegeName: 'Aditya Engineering College',
-      avatar: null,
-      createdAt: '2025-09-18T08:00:00.000Z',
-    },
-  },
-  {
-    email: 'principal.ace@aditya.edu.in',
-    password: import.meta.env.VITE_DEMO_PASSWORD_ACE,
-    user: {
-      id: 'usr-college-ace',
-      name: 'Dr. Rajesh Pillai',
-      email: 'principal.ace@aditya.edu.in',
-      phone: '+91 98480 33344',
-      role: 'college_admin',
-      orgId: 'org-aditya-001',
-      orgName: 'Aditya Educational Institutions',
-      collegeIds: ['col-aditya-eng2'],
-      collegeName: 'Aditya College of Engineering',
-      avatar: null,
-      createdAt: '2025-09-20T08:00:00.000Z',
-    },
-  },
-  {
-    email: 'principal.apc@aditya.edu.in',
-    password: import.meta.env.VITE_DEMO_PASSWORD_APC,
-    user: {
-      id: 'usr-college-apc',
-      name: 'Dr. Meera Sharma',
-      email: 'principal.apc@aditya.edu.in',
-      phone: '+91 98480 44455',
-      role: 'college_admin',
-      orgId: 'org-aditya-001',
-      orgName: 'Aditya Educational Institutions',
-      collegeIds: ['col-aditya-pharm'],
-      collegeName: 'Aditya Pharmacy College',
-      avatar: null,
-      createdAt: '2025-09-22T08:00:00.000Z',
-    },
-  },
-  {
-    email: 'principal.asm@aditya.edu.in',
-    password: import.meta.env.VITE_DEMO_PASSWORD_ASM,
-    user: {
-      id: 'usr-college-asm',
-      name: 'Dr. Vikram Bansal',
-      email: 'principal.asm@aditya.edu.in',
-      phone: '+91 98480 55566',
-      role: 'college_admin',
-      orgId: 'org-aditya-001',
-      orgName: 'Aditya Educational Institutions',
-      collegeIds: ['col-aditya-mgmt'],
-      collegeName: 'Aditya School of Management',
-      avatar: null,
-      createdAt: '2025-09-25T08:00:00.000Z',
-    },
-  },
-]
+export const DEMO_ACCOUNTS = [] // Deprecated, fetch via store.fetchDemoAccounts() instead
 
 const SESSION_KEY = 'admitai.demoSession'
 
@@ -178,10 +62,10 @@ function clearSession() {
 }
 
 /** Look up a demo account by email (case-insensitive); password optional. */
-function findDemoAccount(email, password) {
+function findDemoAccount(email, password, demoAccountsList = []) {
   if (!email) return null
   const e = String(email).trim().toLowerCase()
-  const acct = DEMO_ACCOUNTS.find((a) => a.email.toLowerCase() === e)
+  const acct = demoAccountsList.find((a) => a.email.toLowerCase() === e)
   if (!acct) return null
   if (password !== undefined && password !== acct.password) return null
   return acct.user
@@ -197,8 +81,18 @@ export const useStore = create((set, get) => ({
   students: [],     // full student roster (1000 dummy rows by default)
   chartData: [],
   reports: [],
+  demoAccounts: [],
   loading: false,
   error: null,
+
+  fetchDemoAccounts: async () => {
+    try {
+      const { data } = await api.get('/auth/demo-accounts')
+      set({ demoAccounts: data })
+    } catch {
+      // ignore
+    }
+  },
 
   /**
    * Hydrate every slice that visualizations depend on with the dummy dataset.
@@ -230,9 +124,9 @@ export const useStore = create((set, get) => ({
       // must match too (so reviewers can verify role bindings); if it doesn't
       // match any demo account, fall back to the legacy "anything signs in
       // as admin" behavior to keep the marketing demo frictionless.
-      const matched = findDemoAccount(email, password)
+      const matched = findDemoAccount(email, password, get().demoAccounts)
       if (!matched) {
-        const known = findDemoAccount(email)
+        const known = findDemoAccount(email, undefined, get().demoAccounts)
         if (known) {
           // Email belongs to a demo account but the password is wrong —
           // surface a real error rather than silently signing them in as admin.
