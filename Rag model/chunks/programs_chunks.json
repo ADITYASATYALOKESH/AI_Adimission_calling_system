@@ -1,0 +1,912 @@
+[
+  {
+    "chunkId": "programs_pg_programs_0",
+    "text": "Admission Fee (All PG Programs)\n- Admission Fee: ₹15,000 (Non-Refundable)\n- Applicable for all programs at the time of joining\n- Contact: Dean Admissions — Dr. A. Rama Krishna, Cell: 76590 76662\n- Contact: Assoc. Dean Admissions — Dr. R. Giri Prasad, Cell: 70950 76663",
+    "metadata": {
+      "source": "pg_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/pg_programs.md",
+      "head": "Admission Fee (All PG Programs)",
+      "chunkIndex": 0,
+      "wordCount": 45,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_pg_programs_1",
+    "text": "M.Tech Structural Engineering\n- School: School of Engineering\n- Duration: 2 Years (4 Semesters)\n- Tuition Fee: ₹75,000 per year\n- Eligibility: B.Tech / B.E in Civil Engineering with minimum 50% marks\n- Entrance Accepted: PGECET / GATE / ASAT",
+    "metadata": {
+      "source": "pg_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/pg_programs.md",
+      "head": "M.Tech Structural Engineering",
+      "chunkIndex": 1,
+      "wordCount": 40,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_pg_programs_2",
+    "text": "M.Tech Power Electronics and Drives\n- School: School of Engineering\n- Duration: 2 Years (4 Semesters)\n- Tuition Fee: ₹75,000 per year\n- Eligibility: B.Tech / B.E in EEE / ECE with minimum 50% marks\n- Entrance Accepted: PGECET / GATE / ASAT",
+    "metadata": {
+      "source": "pg_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/pg_programs.md",
+      "head": "M.Tech Power Electronics and Drives",
+      "chunkIndex": 2,
+      "wordCount": 43,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_pg_programs_3",
+    "text": "M.Tech Energy Science and Technology\n- School: School of Engineering\n- Duration: 2 Years (4 Semesters)\n- Tuition Fee: ₹75,000 per year\n- Eligibility: B.Tech / B.E in EEE / Mechanical / related branch with minimum 50% marks\n- Entrance Accepted: PGECET / GATE / ASAT",
+    "metadata": {
+      "source": "pg_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/pg_programs.md",
+      "head": "M.Tech Energy Science and Technology",
+      "chunkIndex": 3,
+      "wordCount": 46,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_pg_programs_4",
+    "text": "M.Tech VLSI Design\n- School: School of Engineering\n- Duration: 2 Years (4 Semesters)\n- Tuition Fee: ₹75,000 per year\n- Eligibility: B.Tech / B.E in ECE / EEE with minimum 50% marks\n- Entrance Accepted: PGECET / GATE / ASAT",
+    "metadata": {
+      "source": "pg_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/pg_programs.md",
+      "head": "M.Tech VLSI Design",
+      "chunkIndex": 4,
+      "wordCount": 41,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_pg_programs_5",
+    "text": "M.Tech CSE AI and ML\n- School: School of Engineering\n- Duration: 2 Years (4 Semesters)\n- Tuition Fee: ₹75,000 per year\n- Eligibility: B.Tech / B.E in CSE / IT / related branch with minimum 50% marks\n- Entrance Accepted: PGECET / GATE / ASAT\n- Note: GATE qualified students eligible for AICTE stipend ₹12,400 per month",
+    "metadata": {
+      "source": "pg_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/pg_programs.md",
+      "head": "M.Tech CSE AI and ML",
+      "chunkIndex": 5,
+      "wordCount": 58,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_pg_programs_6",
+    "text": "M.Tech Computer Science and Engineering\n- School: School of Engineering\n- Duration: 2 Years (4 Semesters)\n- Tuition Fee: ₹75,000 per year\n- Eligibility: B.Tech / B.E in CSE / IT / related branch with minimum 50% marks\n- Entrance Accepted: PGECET / GATE / ASAT\n- Note: GATE qualified students eligible for AICTE stipend ₹12,400 per month",
+    "metadata": {
+      "source": "pg_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/pg_programs.md",
+      "head": "M.Tech Computer Science and Engineering",
+      "chunkIndex": 6,
+      "wordCount": 58,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_pg_programs_7",
+    "text": "M.Tech Artificial Intelligence and Data Science\n- School: School of Engineering\n- Duration: 2 Years (4 Semesters)\n- Tuition Fee: ₹75,000 per year\n- Eligibility: B.Tech / B.E in CSE / IT / AI&ML with minimum 50% marks\n- Entrance Accepted: PGECET / GATE / ASAT",
+    "metadata": {
+      "source": "pg_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/pg_programs.md",
+      "head": "M.Tech Artificial Intelligence and Data Science",
+      "chunkIndex": 7,
+      "wordCount": 46,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_pg_programs_8",
+    "text": "M.Sc Real Estate Valuation\n- School: School of Engineering\n- Duration: 2 Years (4 Semesters)\n- Tuition Fee: ₹75,000 per year\n- Eligibility: Any relevant Bachelor's degree with minimum 50% marks\n- Entrance Accepted: PGCET / ASAT / Merit Based",
+    "metadata": {
+      "source": "pg_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/pg_programs.md",
+      "head": "M.Sc Real Estate Valuation",
+      "chunkIndex": 8,
+      "wordCount": 40,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_pg_programs_9",
+    "text": "MCA (Master of Computer Applications)\n- School: School of Engineering\n- Duration: 2 Years (4 Semesters)\n- Tuition Fee: ₹1,00,000 per year\n- Eligibility: BCA / B.Sc Computer Science / B.Tech with minimum 50% marks\n- Entrance Accepted: ICET (AP) / ASAT / Merit Based",
+    "metadata": {
+      "source": "pg_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/pg_programs.md",
+      "head": "MCA (Master of Computer Applications)",
+      "chunkIndex": 9,
+      "wordCount": 45,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_pg_programs_10",
+    "text": "MBA in Association with Deloitte\n- School: School of Business\n- Duration: 2 Years (4 Semesters)\n- Tuition Fee: ₹1,65,000 per year\n- Industry Partner: Deloitte\n- Eligibility: Any Bachelor's degree with minimum 50% marks\n- Entrance Accepted: ICET / CAT / MAT / ASAT",
+    "metadata": {
+      "source": "pg_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/pg_programs.md",
+      "head": "MBA in Association with Deloitte",
+      "chunkIndex": 10,
+      "wordCount": 45,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_pg_programs_11",
+    "text": "MBA Business Analytics in Association with KPMG\n- School: School of Business\n- Duration: 2 Years (4 Semesters)\n- Tuition Fee: ₹2,50,000 per year\n- Industry Partner: KPMG\n- Eligibility: Any Bachelor's degree with minimum 50% marks\n- Entrance Accepted: ICET / CAT / MAT / NMAT / CMAT / XMAT / ASAT",
+    "metadata": {
+      "source": "pg_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/pg_programs.md",
+      "head": "MBA Business Analytics in Association with KPMG",
+      "chunkIndex": 11,
+      "wordCount": 53,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_pg_programs_12",
+    "text": "MBA Global Finance in Association with PwC\n- School: School of Business\n- Duration: 2 Years (4 Semesters)\n- Tuition Fee: ₹2,50,000 per year\n- Industry Partner: PwC (PricewaterhouseCoopers)\n- Eligibility: Any Bachelor's degree with minimum 50% marks\n- Entrance Accepted: ICET / CAT / MAT / NMAT / CMAT / XMAT / ASAT",
+    "metadata": {
+      "source": "pg_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/pg_programs.md",
+      "head": "MBA Global Finance in Association with PwC",
+      "chunkIndex": 12,
+      "wordCount": 54,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_pg_programs_13",
+    "text": "MBA FinTech in Association with EY\n- School: School of Business\n- Duration: 2 Years (4 Semesters)\n- Tuition Fee: ₹2,50,000 per year\n- Industry Partner: EY (Ernst and Young)\n- Eligibility: Any Bachelor's degree with minimum 50% marks\n- Entrance Accepted: ICET / CAT / MAT / NMAT / CMAT / XMAT / ASAT",
+    "metadata": {
+      "source": "pg_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/pg_programs.md",
+      "head": "MBA FinTech in Association with EY",
+      "chunkIndex": 13,
+      "wordCount": 55,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_pg_programs_14",
+    "text": "MBA Health Care Management in Association with Red Varsity\n- School: School of Business\n- Duration: 2 Years (4 Semesters)\n- Tuition Fee: ₹2,50,000 per year\n- Industry Partner: Red Varsity\n- Eligibility: Any Bachelor's degree with minimum 50% marks\n- Entrance Accepted: ICET / CAT / MAT / NMAT / CMAT / XMAT / ASAT",
+    "metadata": {
+      "source": "pg_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/pg_programs.md",
+      "head": "MBA Health Care Management in Association with Red Varsity",
+      "chunkIndex": 14,
+      "wordCount": 56,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_pg_programs_15",
+    "text": "MBA for Working Professionals\n- School: School of Business\n- Duration: 2 Years (4 Semesters)\n- Tuition Fee: ₹1,75,000 per year\n- Eligibility: Any Bachelor's degree with minimum 50% marks and work experience preferred\n- Entrance Accepted: ICET / CAT / MAT / ASAT\n- Note: Flexible schedule designed for working professionals",
+    "metadata": {
+      "source": "pg_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/pg_programs.md",
+      "head": "MBA for Working Professionals",
+      "chunkIndex": 15,
+      "wordCount": 52,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_pg_programs_16",
+    "text": "M.Pharmacy Pharmaceutics\n- School: School of Pharmacy\n- Duration: 2 Years (4 Semesters)\n- Tuition Fee: ₹75,000 per year\n- Eligibility: B.Pharmacy with minimum 55% marks\n- Entrance Accepted: GPAT / PGECET (Pharmacy) / ASAT",
+    "metadata": {
+      "source": "pg_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/pg_programs.md",
+      "head": "M.Pharmacy Pharmaceutics",
+      "chunkIndex": 16,
+      "wordCount": 35,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_pg_programs_17",
+    "text": "M.Pharmacy Pharmaceutical Analysis\n- School: School of Pharmacy\n- Duration: 2 Years (4 Semesters)\n- Tuition Fee: ₹75,000 per year\n- Eligibility: B.Pharmacy with minimum 55% marks\n- Entrance Accepted: GPAT / PGECET (Pharmacy) / ASAT",
+    "metadata": {
+      "source": "pg_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/pg_programs.md",
+      "head": "M.Pharmacy Pharmaceutical Analysis",
+      "chunkIndex": 17,
+      "wordCount": 36,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_pg_programs_18",
+    "text": "M.Sc Forensic Science\n- School: School of Sciences\n- Duration: 2 Years (4 Semesters)\n- Tuition Fee: ₹75,000 per year\n- Eligibility: B.Sc in Forensic Science / related Science stream with minimum 50% marks\n- Entrance Accepted: PGCET / ASAT / Merit Based",
+    "metadata": {
+      "source": "pg_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/pg_programs.md",
+      "head": "M.Sc Forensic Science",
+      "chunkIndex": 18,
+      "wordCount": 43,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_pg_programs_19",
+    "text": "M.Sc Cyber Security and Digital Forensics\n- School: School of Sciences\n- Duration: 2 Years (4 Semesters)\n- Tuition Fee: ₹75,000 per year\n- Eligibility: B.Sc / B.Tech in CS / IT / Cyber Security with minimum 50% marks\n- Entrance Accepted: PGCET / ASAT / Merit Based",
+    "metadata": {
+      "source": "pg_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/pg_programs.md",
+      "head": "M.Sc Cyber Security and Digital Forensics",
+      "chunkIndex": 19,
+      "wordCount": 48,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_pg_programs_20",
+    "text": "Hostel Fee (PG Students)\n- Non-AC Room: ₹1,15,000 per year\n- AC Room: ₹1,30,000 per year\n- Includes: Laundry expenses and medical insurance up to ₹2,00,000",
+    "metadata": {
+      "source": "pg_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/pg_programs.md",
+      "head": "Hostel Fee (PG Students)",
+      "chunkIndex": 20,
+      "wordCount": 26,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_phd_programs_0",
+    "text": "PhD Admission Contact\n- Dean of Admissions: Dr. A. Rama Krishna — Cell: 76590 76662\n- Associate Dean of Admissions: Dr. R. Giri Prasad — Cell: 70950 76663\n- Admission Fee: ₹15,000 (Non-Refundable) applicable at time of joining",
+    "metadata": {
+      "source": "phd_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/phd_programs.md",
+      "head": "PhD Admission Contact",
+      "chunkIndex": 0,
+      "wordCount": 38,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_phd_programs_1",
+    "text": "PhD General Eligibility and Entry Requirements\n- Minimum Qualification: Master's degree (M.Tech / M.E / M.Sc / MBA / M.Pharmacy) with minimum 55% marks\n- Entrance: Aditya Research Entrance Test (ARET) + Personal Interview\n- Selection: ARET Score (60%) + Interview Score (40%)\n- Course Work: Mandatory 1 semester for all PhD scholars before research begins\n- Modes Available: Full Time (3 to 5 years) and Part Time (4 to 6 years)",
+    "metadata": {
+      "source": "phd_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/phd_programs.md",
+      "head": "PhD General Eligibility and Entry Requirements",
+      "chunkIndex": 1,
+      "wordCount": 72,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_phd_programs_2",
+    "text": "PhD in Computer Science and Engineering\n- School: School of Engineering\n- Eligibility: M.Tech / M.E in CSE / IT or M.Sc Computer Science with 55% marks\n- Mode: Full Time / Part Time\n- Research Areas:\n  - Artificial Intelligence and Deep Learning\n  - Cyber Security and Network Systems\n  - Cloud Computing and Edge Computing\n  - Natural Language Processing\n  - Computer Vision\n- Funding: UGC / CSIR / AICTE fellowship eligible",
+    "metadata": {
+      "source": "phd_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/phd_programs.md",
+      "head": "PhD in Computer Science and Engineering",
+      "chunkIndex": 2,
+      "wordCount": 71,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_phd_programs_3",
+    "text": "PhD in Artificial Intelligence and Data Science\n- School: School of Engineering\n- Eligibility: M.Tech in CSE / AI&ML / Data Science or M.Sc with 55% marks\n- Mode: Full Time / Part Time\n- Research Areas:\n  - Machine Learning and Deep Learning\n  - Big Data Analytics\n  - Computer Vision and NLP\n  - AI in Healthcare and Agriculture\n- Funding: UGC / DST fellowship eligible",
+    "metadata": {
+      "source": "phd_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/phd_programs.md",
+      "head": "PhD in Artificial Intelligence and Data Science",
+      "chunkIndex": 3,
+      "wordCount": 65,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_phd_programs_4",
+    "text": "PhD in Electronics and Communication Engineering\n- School: School of Engineering\n- Eligibility: M.Tech / M.E in ECE or related field with 55% marks\n- Mode: Full Time / Part Time\n- Research Areas:\n  - VLSI Circuit Design\n  - Antenna and Microwave Engineering\n  - Signal and Image Processing\n  - Wireless Communication Systems\n  - Embedded Systems and IoT\n- Funding: UGC / DST fellowship eligible",
+    "metadata": {
+      "source": "phd_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/phd_programs.md",
+      "head": "PhD in Electronics and Communication Engineering",
+      "chunkIndex": 4,
+      "wordCount": 64,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_phd_programs_5",
+    "text": "PhD in Electrical Engineering\n- School: School of Engineering\n- Eligibility: M.Tech / M.E in EEE or related field with 55% marks\n- Mode: Full Time / Part Time\n- Research Areas:\n  - Renewable Energy Systems\n  - Smart Grid Technology\n  - Power Electronics and Drives\n  - Electric Vehicles and Energy Storage\n- Funding: DST / MNRE fellowship eligible",
+    "metadata": {
+      "source": "phd_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/phd_programs.md",
+      "head": "PhD in Electrical Engineering",
+      "chunkIndex": 5,
+      "wordCount": 58,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_phd_programs_6",
+    "text": "PhD in Mechanical Engineering\n- School: School of Engineering\n- Eligibility: M.Tech / M.E in Mechanical or related field with 55% marks\n- Mode: Full Time / Part Time\n- Research Areas:\n  - Manufacturing and Automation\n  - Thermal and Fluid Systems\n  - Composite Materials and Nanotechnology\n  - Robotics and Mechatronics\n- Funding: DST fellowship eligible",
+    "metadata": {
+      "source": "phd_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/phd_programs.md",
+      "head": "PhD in Mechanical Engineering",
+      "chunkIndex": 6,
+      "wordCount": 55,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_phd_programs_7",
+    "text": "PhD in Civil Engineering\n- School: School of Engineering\n- Eligibility: M.Tech / M.E in Civil / Structural Engineering with 55% marks\n- Mode: Full Time / Part Time\n- Research Areas:\n  - Structural Engineering and Analysis\n  - Environmental Engineering\n  - Transportation and Urban Planning\n  - Construction Technology and Management\n- Funding: DST / CSIR fellowship eligible",
+    "metadata": {
+      "source": "phd_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/phd_programs.md",
+      "head": "PhD in Civil Engineering",
+      "chunkIndex": 7,
+      "wordCount": 57,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_phd_programs_8",
+    "text": "PhD in Management Studies (MBA)\n- School: School of Business\n- Eligibility: MBA / M.Com / Master's in Management with 55% marks\n- Mode: Full Time / Part Time\n- Research Areas:\n  - Marketing and Consumer Behaviour\n  - Human Resource and Organisational Behaviour\n  - Finance and Financial Markets\n  - Supply Chain and Operations Management\n  - Healthcare Management\n- Funding: UGC fellowship eligible",
+    "metadata": {
+      "source": "phd_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/phd_programs.md",
+      "head": "PhD in Management Studies (MBA)",
+      "chunkIndex": 8,
+      "wordCount": 62,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_phd_programs_9",
+    "text": "PhD in Pharmaceutical Sciences\n- School: School of Pharmacy\n- Eligibility: M.Pharmacy with 55% marks\n- Mode: Full Time / Part Time\n- Research Areas:\n  - Drug Delivery Systems\n  - Pharmacology and Toxicology\n  - Herbal and Natural Products Research\n  - Pharmaceutical Analysis\n- Funding: ICMR / DBT fellowship eligible",
+    "metadata": {
+      "source": "phd_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/phd_programs.md",
+      "head": "PhD in Pharmaceutical Sciences",
+      "chunkIndex": 9,
+      "wordCount": 49,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_phd_programs_10",
+    "text": "PhD in Forensic Science\n- School: School of Sciences\n- Eligibility: M.Sc Forensic Science or related field with 55% marks\n- Mode: Full Time / Part Time\n- Research Areas:\n  - Digital Forensics\n  - Forensic Chemistry and Toxicology\n  - Cyber Crime Investigation\n  - Forensic Biology and DNA Analysis\n- Funding: UGC / DST fellowship eligible",
+    "metadata": {
+      "source": "phd_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/phd_programs.md",
+      "head": "PhD in Forensic Science",
+      "chunkIndex": 10,
+      "wordCount": 55,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_phd_programs_11",
+    "text": "PhD Admission Process — Step by Step\n- Step 1: Apply online at research.adityauniversity.in\n- Step 2: Appear for Aditya Research Entrance Test (ARET) — held twice a year (January and July)\n- Step 3: Shortlisted candidates called for personal interview with the Research Committee\n- Step 4: Final selection based on ARET score (60%) + Interview (40%)\n- Step 5: Allotment of research supervisor based on area of interest\n- Step 6: Complete mandatory course work in Semester 1\n- Step 7: Begin full research after course work clearance",
+    "metadata": {
+      "source": "phd_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/phd_programs.md",
+      "head": "PhD Admission Process — Step by Step",
+      "chunkIndex": 11,
+      "wordCount": 90,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_phd_programs_12",
+    "text": "PhD ARET Exam Schedule\n- January Session Application: November 1 to December 15\n- January Session Exam: Second week of January\n- July Session Application: May 1 to June 15\n- July Session Exam: Second week of July\n- Results: Declared within 3 weeks of exam date\n- Admission Completion: Within 2 weeks of result declaration",
+    "metadata": {
+      "source": "phd_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/phd_programs.md",
+      "head": "PhD ARET Exam Schedule",
+      "chunkIndex": 12,
+      "wordCount": 56,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_phd_programs_13",
+    "text": "PhD Fee Structure\n- Admission Fee: ₹15,000 (Non-Refundable, one time)\n- Registration Fee: ₹10,000 (one time at enrollment)\n- Course Work Fee: ₹15,000 (one time, Semester 1)\n- Annual Research Fee Full Time: ₹25,000 per year\n- Annual Research Fee Part Time: ₹30,000 per year\n- Thesis Submission Fee: ₹10,000 (one time)\n- Fellowship Scholars: Annual Research Fee waived on submission of valid fellowship letter",
+    "metadata": {
+      "source": "phd_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/phd_programs.md",
+      "head": "PhD Fee Structure",
+      "chunkIndex": 13,
+      "wordCount": 65,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_phd_programs_14",
+    "text": "PhD Hostel Fee (Full Time Scholars)\n- Non-AC Room: ₹1,15,000 per year\n- AC Room: ₹1,30,000 per year\n- Includes: Laundry expenses and medical insurance up to ₹2,00,000\n- Available for Full Time PhD scholars only",
+    "metadata": {
+      "source": "phd_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/phd_programs.md",
+      "head": "PhD Hostel Fee (Full Time Scholars)",
+      "chunkIndex": 14,
+      "wordCount": 36,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_technical_hub_0",
+    "text": "Technical Hub — Facilities and Labs\n- **Advanced Computing Lab**: High-performance workstations with GPU clusters for AI/ML and deep learning projects.\n- **IoT and Embedded Systems Lab**: Equipped with Arduino, Raspberry Pi, ESP32 boards, sensors, and actuators for hands-on IoT prototyping.\n- **Robotics and Automation Lab**: Robotic arms, autonomous vehicle kits, and simulation software for robotics programming.\n- **Cybersecurity Lab**: Dedicated environment for ethical hacking, penetration testing, and network security training with industry-standard tools.\n- **AR/VR Lab**: Augmented Reality and Virtual Reality development kits (Meta Quest, HoloLens) for immersive application development.\n- **Cloud Computing Studio**: AWS, Azure, and Google Cloud sandbox environments for hands-on cloud architecture and DevOps training.\n- **Data Science Workspace**: Tools including Python, R, Tableau, Power BI, and Jupyter Notebooks for analytics and visualization.\n- **Maker Space**: 3D printers, laser cutters, and electronics fabrication tools for building hardware prototypes.",
+    "metadata": {
+      "source": "technical_hub",
+      "category": "programs",
+      "patth": "knowledge_base/programs/technical_hub.md",
+      "head": "Technical Hub — Facilities and Labs",
+      "chunkIndex": 0,
+      "wordCount": 142,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_technical_hub_1",
+    "text": "Technical Hub — Programs and Certifications\n- **Industry Certification Tracks**: Preparation and training for certifications including AWS Cloud Practitioner, Microsoft Azure Fundamentals, Google Data Analytics, Cisco CCNA, and CompTIA Security+.\n- **Skill Development Workshops**: Regular weekend workshops on trending technologies — Generative AI, Large Language Models, Blockchain, DevOps, and Full Stack Development.\n- **Bootcamps**: Intensive 2–4 week bootcamps during semester breaks covering Data Structures & Algorithms, Machine Learning, and Web Development.\n- **Hackathons and Coding Contests**: Monthly internal hackathons and participation support for national-level competitions like Smart India Hackathon (SIH), HackWithInfy, and CodeChef contests.\n- **Open Source Contribution Program**: Mentored program guiding students to contribute to GitHub open source projects and build public portfolios.",
+    "metadata": {
+      "source": "technical_hub",
+      "category": "programs",
+      "patth": "knowledge_base/programs/technical_hub.md",
+      "head": "Technical Hub — Programs and Certifications",
+      "chunkIndex": 1,
+      "wordCount": 114,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_technical_hub_2",
+    "text": "Technical Hub — Industry Partnerships and Collaboration\n- Collaborates with companies including TCS, Infosys, Wipro, IBM, Microsoft, and Google for curriculum-aligned skill programs.\n- Industry mentors from partner companies conduct live project sessions and code reviews.\n- Select students are sponsored for paid internships and pre-placement opportunities through Technical Hub performance.\n- Annual Industry Connect Summit hosted at the hub — brings together recruiters, alumni, and students for networking and live project showcases.",
+    "metadata": {
+      "source": "technical_hub",
+      "category": "programs",
+      "patth": "knowledge_base/programs/technical_hub.md",
+      "head": "Technical Hub — Industry Partnerships and Collaboration",
+      "chunkIndex": 2,
+      "wordCount": 73,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_technical_hub_3",
+    "text": "Technical Hub — Clubs and Student Communities\n- **Coding Club (CodeCell)**: Weekly competitive programming sessions, team practice for ICPC and other contests.\n- **AI/ML Club**: Research paper reading groups, model building challenges, and Kaggle competition teams.\n- **Cybersecurity Club (CyberShield)**: Capture The Flag (CTF) competitions, vulnerability research, and awareness campaigns.\n- **Robotics Club**: Design and build autonomous robots for inter-college and national robotics competitions.\n- **Web Dev Society**: Full-stack project builds, UI/UX design sprints, and open source collaboration.\n- All clubs are student-led with faculty advisors from relevant departments.",
+    "metadata": {
+      "source": "technical_hub",
+      "category": "programs",
+      "patth": "knowledge_base/programs/technical_hub.md",
+      "head": "Technical Hub — Clubs and Student Communities",
+      "chunkIndex": 3,
+      "wordCount": 89,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_technical_hub_4",
+    "text": "Technical Hub — Innovation and Incubation Support\n- Supports student startup ideas through the Aditya Innovation Cell (AIC).\n- Selected student projects receive seed funding, mentorship, and workspace to develop into viable products.\n- Connects student entrepreneurs with industry mentors, angel investors, and government startup schemes (Startup India, T-Hub).\n- Past incubated startups span EdTech, HealthTech, AgriTech, and SaaS domains.",
+    "metadata": {
+      "source": "technical_hub",
+      "category": "programs",
+      "patth": "knowledge_base/programs/technical_hub.md",
+      "head": "Technical Hub — Innovation and Incubation Support",
+      "chunkIndex": 4,
+      "wordCount": 60,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_technical_hub_5",
+    "text": "Technical Hub — Access and Membership\n- Access is free for all Aditya University students with a valid student ID.\n- Extended lab hours: 8:00 AM to 10:00 PM (Monday to Saturday); 9:00 AM to 6:00 PM (Sunday).\n- Students can book specialized lab slots (Robotics, AR/VR, Cybersecurity) via the campus portal.\n- Project teams may apply for dedicated workspace allocation for semester-long projects.\n- Contact: Technical Hub Coordinator — technicalhub@adityauniversity.in | Campus Extension: 040-TH-001",
+    "metadata": {
+      "source": "technical_hub",
+      "category": "programs",
+      "patth": "knowledge_base/programs/technical_hub.md",
+      "head": "Technical Hub — Access and Membership",
+      "chunkIndex": 5,
+      "wordCount": 75,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_ug_programs_0",
+    "text": "Admission Fee (All UG Programs)\n- Admission Fee: ₹15,000 (Non-Refundable)\n- Applicable for all programs at the time of joining\n- Contact: Dean Admissions — Dr. A. Rama Krishna, Cell: 76590 76662\n- Contact: Assoc. Dean Admissions — Dr. R. Giri Prasad, Cell: 70950 76663",
+    "metadata": {
+      "source": "ug_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/ug_programs.md",
+      "head": "Admission Fee (All UG Programs)",
+      "chunkIndex": 0,
+      "wordCount": 45,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_ug_programs_1",
+    "text": "B.Tech Computer Science and Engineering (CSE)\n- School: School of Engineering\n- Duration: 4 Years (8 Semesters)\n- Tuition Fee: ₹2,75,000 per year\n- Eligibility: Minimum 60% in 10+2 with Physics, Chemistry, Mathematics (PCM)\n- Entrance Accepted: EAPCET (AP & TS) / JEE Main / ASAT\n- Accreditation: NBA Accredited",
+    "metadata": {
+      "source": "ug_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/ug_programs.md",
+      "head": "B.Tech Computer Science and Engineering (CSE)",
+      "chunkIndex": 1,
+      "wordCount": 50,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_ug_programs_2",
+    "text": "B.Tech Artificial Intelligence and Machine Learning (AI&ML)\n- School: School of Engineering\n- Duration: 4 Years (8 Semesters)\n- Tuition Fee: ₹2,50,000 per year\n- Eligibility: Minimum 60% in 10+2 with Physics, Chemistry, Mathematics (PCM)\n- Entrance Accepted: EAPCET (AP & TS) / JEE Main / ASAT",
+    "metadata": {
+      "source": "ug_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/ug_programs.md",
+      "head": "B.Tech Artificial Intelligence and Machine Learning (AI&ML)",
+      "chunkIndex": 2,
+      "wordCount": 47,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_ug_programs_3",
+    "text": "B.Tech CSE Data Science\n- School: School of Engineering\n- Duration: 4 Years (8 Semesters)\n- Tuition Fee: ₹2,00,000 per year\n- Eligibility: Minimum 60% in 10+2 with Physics, Chemistry, Mathematics (PCM)\n- Entrance Accepted: EAPCET (AP & TS) / JEE Main / ASAT",
+    "metadata": {
+      "source": "ug_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/ug_programs.md",
+      "head": "B.Tech CSE Data Science",
+      "chunkIndex": 3,
+      "wordCount": 44,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_ug_programs_4",
+    "text": "B.Tech Electronics and Communication Engineering (ECE)\n- School: School of Engineering\n- Duration: 4 Years (8 Semesters)\n- Tuition Fee: ₹2,00,000 per year\n- Eligibility: Minimum 60% in 10+2 with Physics, Chemistry, Mathematics (PCM)\n- Entrance Accepted: EAPCET (AP & TS) / JEE Main / ASAT",
+    "metadata": {
+      "source": "ug_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/ug_programs.md",
+      "head": "B.Tech Electronics and Communication Engineering (ECE)",
+      "chunkIndex": 4,
+      "wordCount": 46,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_ug_programs_5",
+    "text": "B.Tech Electrical and Electronics Engineering (EEE)\n- School: School of Engineering\n- Duration: 4 Years (8 Semesters)\n- Tuition Fee: ₹1,00,000 per year\n- Eligibility: Minimum 60% in 10+2 with Physics, Chemistry, Mathematics (PCM)\n- Entrance Accepted: EAPCET (AP & TS) / JEE Main / ASAT",
+    "metadata": {
+      "source": "ug_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/ug_programs.md",
+      "head": "B.Tech Electrical and Electronics Engineering (EEE)",
+      "chunkIndex": 5,
+      "wordCount": 46,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_ug_programs_6",
+    "text": "B.Tech Civil Engineering\n- School: School of Engineering\n- Duration: 4 Years (8 Semesters)\n- Tuition Fee: ₹1,00,000 per year\n- Eligibility: Minimum 60% in 10+2 with Physics, Chemistry, Mathematics (PCM)\n- Entrance Accepted: EAPCET (AP & TS) / JEE Main / ASAT",
+    "metadata": {
+      "source": "ug_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/ug_programs.md",
+      "head": "B.Tech Civil Engineering",
+      "chunkIndex": 6,
+      "wordCount": 43,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_ug_programs_7",
+    "text": "B.Tech Mechanical Engineering\n- School: School of Engineering\n- Duration: 4 Years (8 Semesters)\n- Tuition Fee: ₹1,00,000 per year\n- Eligibility: Minimum 60% in 10+2 with Physics, Chemistry, Mathematics (PCM)\n- Entrance Accepted: EAPCET (AP & TS) / JEE Main / ASAT",
+    "metadata": {
+      "source": "ug_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/ug_programs.md",
+      "head": "B.Tech Mechanical Engineering",
+      "chunkIndex": 7,
+      "wordCount": 43,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_ug_programs_8",
+    "text": "B.Tech Petroleum Technology\n- School: School of Engineering\n- Duration: 4 Years (8 Semesters)\n- Tuition Fee: ₹1,00,000 per year\n- Eligibility: Minimum 60% in 10+2 with Physics, Chemistry, Mathematics (PCM)\n- Entrance Accepted: EAPCET (AP & TS) / JEE Main / ASAT",
+    "metadata": {
+      "source": "ug_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/ug_programs.md",
+      "head": "B.Tech Petroleum Technology",
+      "chunkIndex": 8,
+      "wordCount": 43,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_ug_programs_9",
+    "text": "B.Tech Agricultural Engineering\n- School: School of Engineering\n- Duration: 4 Years (8 Semesters)\n- Tuition Fee: ₹1,00,000 per year\n- Eligibility: Minimum 60% in 10+2 with Physics, Chemistry, Mathematics or Biology\n- Entrance Accepted: EAPCET (AP & TS) / JEE Main / ASAT",
+    "metadata": {
+      "source": "ug_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/ug_programs.md",
+      "head": "B.Tech Agricultural Engineering",
+      "chunkIndex": 9,
+      "wordCount": 44,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_ug_programs_10",
+    "text": "B.Tech Mining Engineering\n- School: School of Engineering\n- Duration: 4 Years (8 Semesters)\n- Tuition Fee: ₹1,00,000 per year\n- Eligibility: Minimum 60% in 10+2 with Physics, Chemistry, Mathematics (PCM)\n- Entrance Accepted: EAPCET (AP & TS) / JEE Main / ASAT",
+    "metadata": {
+      "source": "ug_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/ug_programs.md",
+      "head": "B.Tech Mining Engineering",
+      "chunkIndex": 10,
+      "wordCount": 43,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_ug_programs_11",
+    "text": "B.Tech CSE in Association with SAP (Industry Collaborated)\n- School: School of Engineering\n- Duration: 4 Years (8 Semesters)\n- Tuition Fee: ₹2,75,000 + ₹60,000 = ₹3,35,000 per year\n- Industry Partner: SAP\n- Eligibility: Minimum 60% in 10+2 with PCM\n- Entrance Accepted: EAPCET / JEE / ASAT",
+    "metadata": {
+      "source": "ug_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/ug_programs.md",
+      "head": "B.Tech CSE in Association with SAP (Industry Collaborated)",
+      "chunkIndex": 11,
+      "wordCount": 49,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_ug_programs_12",
+    "text": "B.Tech CSE in Association with Google Cloud (Industry Collaborated)\n- School: School of Engineering\n- Duration: 4 Years (8 Semesters)\n- Tuition Fee: ₹2,75,000 + ₹50,000 = ₹3,25,000 per year\n- Industry Partner: Google Cloud\n- Eligibility: Minimum 60% in 10+2 with PCM\n- Entrance Accepted: EAPCET / JEE / ASAT",
+    "metadata": {
+      "source": "ug_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/ug_programs.md",
+      "head": "B.Tech CSE in Association with Google Cloud (Industry Collaborated)",
+      "chunkIndex": 12,
+      "wordCount": 51,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_ug_programs_13",
+    "text": "B.Tech AIML in Association with Microsoft (Industry Collaborated)\n- School: School of Engineering\n- Duration: 4 Years (8 Semesters)\n- Tuition Fee: ₹2,50,000 + ₹60,000 = ₹3,10,000 per year\n- Industry Partner: Microsoft\n- Eligibility: Minimum 60% in 10+2 with PCM\n- Entrance Accepted: EAPCET / JEE / ASAT",
+    "metadata": {
+      "source": "ug_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/ug_programs.md",
+      "head": "B.Tech AIML in Association with Microsoft (Industry Collaborated)",
+      "chunkIndex": 13,
+      "wordCount": 49,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_ug_programs_14",
+    "text": "B.Tech AIML in Association with Google Cloud (Industry Collaborated)\n- School: School of Engineering\n- Duration: 4 Years (8 Semesters)\n- Tuition Fee: ₹2,50,000 + ₹50,000 = ₹3,00,000 per year\n- Industry Partner: Google Cloud\n- Eligibility: Minimum 60% in 10+2 with PCM\n- Entrance Accepted: EAPCET / JEE / ASAT",
+    "metadata": {
+      "source": "ug_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/ug_programs.md",
+      "head": "B.Tech AIML in Association with Google Cloud (Industry Collaborated)",
+      "chunkIndex": 14,
+      "wordCount": 51,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_ug_programs_15",
+    "text": "B.Tech CSE Data Science in Association with Google Cloud (Industry Collaborated)\n- School: School of Engineering\n- Duration: 4 Years (8 Semesters)\n- Tuition Fee: ₹2,00,000 + ₹50,000 = ₹2,50,000 per year\n- Industry Partner: Google Cloud\n- Eligibility: Minimum 60% in 10+2 with PCM\n- Entrance Accepted: EAPCET / JEE / ASAT",
+    "metadata": {
+      "source": "ug_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/ug_programs.md",
+      "head": "B.Tech CSE Data Science in Association with Google Cloud (Industry Collaborated)",
+      "chunkIndex": 15,
+      "wordCount": 53,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_ug_programs_16",
+    "text": "B.Tech Lateral Entry (All Branches)\n- School: School of Engineering\n- Duration: 3 Years — Direct Entry into II Year (2nd Year)\n- Tuition Fee: ₹1,00,000 per year\n- Admission Fee: ₹15,000 (Non-Refundable)\n- Eligibility: Diploma in relevant Engineering branch with minimum 60% marks\n- Entrance: ECET 2026\n- Scholarship: Up to 100% based on ECET 2026 Rank\n  - Rank 1-25: 100% scholarship\n  - Rank 26-50: 75% scholarship\n  - Rank 51-100: 50% scholarship\n  - Rank 101-150: 25% scholarship\n- Available Branches: CSE, AI&ML, ECE, EEE, Civil, Mechanical, Petroleum, Agricultural, Mining",
+    "metadata": {
+      "source": "ug_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/ug_programs.md",
+      "head": "B.Tech Lateral Entry (All Branches)",
+      "chunkIndex": 16,
+      "wordCount": 90,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_ug_programs_17",
+    "text": "BCA (Bachelor of Computer Applications)\n- School: School of Engineering\n- Duration: 3 Years (6 Semesters)\n- Tuition Fee: ₹1,00,000 per year\n- Eligibility: Minimum 55% in 10+2 (any stream)\n- Entrance Accepted: ASAT / Merit Based",
+    "metadata": {
+      "source": "ug_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/ug_programs.md",
+      "head": "BCA (Bachelor of Computer Applications)",
+      "chunkIndex": 17,
+      "wordCount": 37,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_ug_programs_18",
+    "text": "BBA in Association with Deloitte\n- School: School of Business\n- Duration: 3 Years (6 Semesters)\n- Tuition Fee: ₹1,40,000 per year\n- Industry Partner: Deloitte\n- Eligibility: Minimum 55% in 10+2 (any stream)\n- Entrance Accepted: ASAT / Merit Based",
+    "metadata": {
+      "source": "ug_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/ug_programs.md",
+      "head": "BBA in Association with Deloitte",
+      "chunkIndex": 18,
+      "wordCount": 41,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_ug_programs_19",
+    "text": "BBA Business Analytics in Association with KPMG\n- School: School of Business\n- Duration: 3 Years (6 Semesters)\n- Tuition Fee: ₹1,65,000 per year\n- Industry Partner: KPMG\n- Eligibility: Minimum 55% in 10+2 (any stream)\n- Entrance Accepted: ASAT / Merit Based",
+    "metadata": {
+      "source": "ug_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/ug_programs.md",
+      "head": "BBA Business Analytics in Association with KPMG",
+      "chunkIndex": 19,
+      "wordCount": 43,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_ug_programs_20",
+    "text": "BBA Global Finance in Association with PwC\n- School: School of Business\n- Duration: 3 Years (6 Semesters)\n- Tuition Fee: ₹1,65,000 per year\n- Industry Partner: PwC (PricewaterhouseCoopers)\n- Eligibility: Minimum 55% in 10+2 (any stream)\n- Entrance Accepted: ASAT / Merit Based",
+    "metadata": {
+      "source": "ug_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/ug_programs.md",
+      "head": "BBA Global Finance in Association with PwC",
+      "chunkIndex": 20,
+      "wordCount": 44,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_ug_programs_21",
+    "text": "BBA FinTech in Association with EY\n- School: School of Business\n- Duration: 3 Years (6 Semesters)\n- Tuition Fee: ₹1,65,000 per year\n- Industry Partner: EY (Ernst and Young)\n- Eligibility: Minimum 55% in 10+2 (any stream)\n- Entrance Accepted: ASAT / Merit Based",
+    "metadata": {
+      "source": "ug_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/ug_programs.md",
+      "head": "BBA FinTech in Association with EY",
+      "chunkIndex": 21,
+      "wordCount": 45,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_ug_programs_22",
+    "text": "BBA Health Care Management in Association with Red Varsity\n- School: School of Business\n- Duration: 3 Years (6 Semesters)\n- Tuition Fee: ₹1,65,000 per year\n- Industry Partner: Red Varsity\n- Eligibility: Minimum 55% in 10+2 (any stream)\n- Entrance Accepted: ASAT / Merit Based",
+    "metadata": {
+      "source": "ug_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/ug_programs.md",
+      "head": "BBA Health Care Management in Association with Red Varsity",
+      "chunkIndex": 22,
+      "wordCount": 46,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_ug_programs_23",
+    "text": "B.Pharmacy\n- School: School of Pharmacy\n- Duration: 4 Years (8 Semesters)\n- Tuition Fee: ₹1,80,000 per year\n- Eligibility: Minimum 60% in 10+2 with Physics, Chemistry, Biology (PCB)\n- Entrance Accepted: EAPCET (Pharmacy) / NEET / ASAT",
+    "metadata": {
+      "source": "ug_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/ug_programs.md",
+      "head": "B.Pharmacy",
+      "chunkIndex": 23,
+      "wordCount": 38,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_ug_programs_24",
+    "text": "Pharma-D (Doctor of Pharmacy)\n- School: School of Pharmacy\n- Duration: 6 Years\n- Tuition Fee: ₹2,50,000 per year\n- Eligibility: Minimum 60% in 10+2 with Physics, Chemistry, Biology (PCB)\n- Entrance Accepted: EAPCET (Pharmacy) / NEET / ASAT",
+    "metadata": {
+      "source": "ug_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/ug_programs.md",
+      "head": "Pharma-D (Doctor of Pharmacy)",
+      "chunkIndex": 24,
+      "wordCount": 39,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_ug_programs_25",
+    "text": "B.Sc Forensic Science\n- School: School of Sciences\n- Duration: 3 Years (6 Semesters)\n- Tuition Fee: ₹1,00,000 per year\n- Eligibility: Minimum 55% in 10+2 with Science subjects\n- Entrance Accepted: ASAT / Merit Based",
+    "metadata": {
+      "source": "ug_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/ug_programs.md",
+      "head": "B.Sc Forensic Science",
+      "chunkIndex": 25,
+      "wordCount": 36,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_ug_programs_26",
+    "text": "B.Sc Cyber Security and Digital Forensics\n- School: School of Sciences\n- Duration: 3 Years (6 Semesters)\n- Tuition Fee: ₹1,00,000 per year\n- Eligibility: Minimum 55% in 10+2 with Science or Mathematics\n- Entrance Accepted: ASAT / Merit Based",
+    "metadata": {
+      "source": "ug_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/ug_programs.md",
+      "head": "B.Sc Cyber Security and Digital Forensics",
+      "chunkIndex": 26,
+      "wordCount": 40,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "programs_ug_programs_27",
+    "text": "Hostel Fee (UG Students)\n- Non-AC Room: ₹1,15,000 per year\n- AC Room: ₹1,30,000 per year\n- Includes: Laundry expenses and medical insurance up to ₹2,00,000",
+    "metadata": {
+      "source": "ug_programs",
+      "category": "programs",
+      "patth": "knowledge_base/programs/ug_programs.md",
+      "head": "Hostel Fee (UG Students)",
+      "chunkIndex": 27,
+      "wordCount": 26,
+      "lastUpdated": "2026-03"
+    }
+  }
+]

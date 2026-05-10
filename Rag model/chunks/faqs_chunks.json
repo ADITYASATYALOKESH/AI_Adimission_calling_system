@@ -1,0 +1,327 @@
+[
+  {
+    "chunkId": "faqs_common_objections_0",
+    "text": "Q: What are the UG Programs offered by Aditya University?\nAditya University offers UG Programs like B.Tech, BBA, B.Sc., BCA, and Pharmacy (B.Pharmacy and Pharma-D).",
+    "metadata": {
+      "source": "common_objections",
+      "category": "faqs",
+      "patth": "knowledge_base/faqs/common_objections.md",
+      "head": "Q: What are the UG Programs offered by Aditya University?",
+      "chunkIndex": 0,
+      "wordCount": 25,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "faqs_common_objections_1",
+    "text": "Q: What are the PG Programs offered by Aditya University?\nAditya University offers a diverse range of PG Programs like M.Tech, MBA, M.Sc., MCA, and M.Pharmacy.",
+    "metadata": {
+      "source": "common_objections",
+      "category": "faqs",
+      "patth": "knowledge_base/faqs/common_objections.md",
+      "head": "Q: What are the PG Programs offered by Aditya University?",
+      "chunkIndex": 1,
+      "wordCount": 26,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "faqs_common_objections_2",
+    "text": "Q: In which disciplines does Aditya University offer PhD?\nAditya University offers PhD in various disciplines like Engineering, Management, Humanities, Sciences, and Pharmaceutical Sciences.",
+    "metadata": {
+      "source": "common_objections",
+      "category": "faqs",
+      "patth": "knowledge_base/faqs/common_objections.md",
+      "head": "Q: In which disciplines does Aditya University offer PhD?",
+      "chunkIndex": 2,
+      "wordCount": 24,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "faqs_common_objections_3",
+    "text": "Q: Are there any industry collaborated programs offered in B.Tech?\nYes, Aditya University offers B.Tech CSE in association with SAP and Google Cloud, AIML in association with Microsoft and Google Cloud, and CSE Data Science in association with Google Cloud.",
+    "metadata": {
+      "source": "common_objections",
+      "category": "faqs",
+      "patth": "knowledge_base/faqs/common_objections.md",
+      "head": "Q: Are there any industry collaborated programs offered in B.Tech?",
+      "chunkIndex": 3,
+      "wordCount": 40,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "faqs_common_objections_4",
+    "text": "Q: What are the eligibility criteria for admission into Aditya University?\nFor B.Tech and Pharmacy programs, candidates need to score a minimum of 60% or equivalent CGPA in Intermediate / Higher Secondary / XII Class from a recognised State or Central Board. For BBA, BCA, and B.Sc programs, the minimum requirement is 55% or equivalent CGPA.",
+    "metadata": {
+      "source": "common_objections",
+      "category": "faqs",
+      "patth": "knowledge_base/faqs/common_objections.md",
+      "head": "Q: What are the eligibility criteria for admission into Aditya University?",
+      "chunkIndex": 4,
+      "wordCount": 56,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "faqs_common_objections_5",
+    "text": "Q: What is the fee for B.Tech at Aditya University?\nB.Tech tuition fees vary by branch. CSE is ₹2,75,000 per year, AI&ML is ₹2,50,000 per year, CSE Data Science and ECE are ₹2,00,000 per year, and EEE, Civil, Mechanical, Petroleum, Agricultural, and Mining Engineering are ₹1,00,000 per year. Admission Fee of ₹15,000 is additional and non-refundable. For complete fee details visit adityauniversity.in.",
+    "metadata": {
+      "source": "common_objections",
+      "category": "faqs",
+      "patth": "knowledge_base/faqs/common_objections.md",
+      "head": "Q: What is the fee for B.Tech at Aditya University?",
+      "chunkIndex": 5,
+      "wordCount": 62,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "faqs_common_objections_6",
+    "text": "Q: Does Aditya University offer scholarships?\nYes, Aditya University offers up to 100% scholarship for B.Tech, up to 75% scholarship for Pharmacy (B.Pharmacy and Pharma-D), and up to 20% scholarship for BBA, BCA, and B.Sc programs. Scholarships are based on entrance exam ranks (EAPCET, JEE, NEET, BIE, CBSE) or ASAT scores.",
+    "metadata": {
+      "source": "common_objections",
+      "category": "faqs",
+      "patth": "knowledge_base/faqs/common_objections.md",
+      "head": "Q: Does Aditya University offer scholarships?",
+      "chunkIndex": 6,
+      "wordCount": 51,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "faqs_common_objections_7",
+    "text": "Q: In how many instalments can I pay the tuition fee?\nTuition Fee, Hostel Fee, and Bus Fee can be paid in 2 instalments before the commencement of classwork every semester.",
+    "metadata": {
+      "source": "common_objections",
+      "category": "faqs",
+      "patth": "knowledge_base/faqs/common_objections.md",
+      "head": "Q: In how many instalments can I pay the tuition fee?",
+      "chunkIndex": 7,
+      "wordCount": 31,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "faqs_common_objections_8",
+    "text": "Q: Is the admission fee included in the tuition fee?\nNo, the admission fee is not included in the tuition fee. The admission fee of ₹15,000 is paid only once in the first year (in II Year for lateral entry students) at the time of admission and is non-refundable.",
+    "metadata": {
+      "source": "common_objections",
+      "category": "faqs",
+      "patth": "knowledge_base/faqs/common_objections.md",
+      "head": "Q: Is the admission fee included in the tuition fee?",
+      "chunkIndex": 8,
+      "wordCount": 49,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "faqs_common_objections_9",
+    "text": "Q: Are there any sports scholarships available at Aditya University?\nYes, Aditya University offers 75% to 100% scholarships for candidates who have participated in National and International level sports meets. Subject to verification by the University constituted Sports Scholarship Committee.",
+    "metadata": {
+      "source": "common_objections",
+      "category": "faqs",
+      "patth": "knowledge_base/faqs/common_objections.md",
+      "head": "Q: Are there any sports scholarships available at Aditya University?",
+      "chunkIndex": 9,
+      "wordCount": 40,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "faqs_common_objections_10",
+    "text": "Q: Does Aditya University have a hostel on campus?\nYes, Aditya University has hostels inside the campus for both boys and girls.",
+    "metadata": {
+      "source": "common_objections",
+      "category": "faqs",
+      "patth": "knowledge_base/faqs/common_objections.md",
+      "head": "Q: Does Aditya University have a hostel on campus?",
+      "chunkIndex": 10,
+      "wordCount": 22,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "faqs_common_objections_11",
+    "text": "Q: Is there a provision for parents to stay on campus?\nYes, Aditya University hostels offer accommodation for guests including parents. The hostels are situated within the campus premises so that parents can enjoy all the facilities inside the campus.",
+    "metadata": {
+      "source": "common_objections",
+      "category": "faqs",
+      "patth": "knowledge_base/faqs/common_objections.md",
+      "head": "Q: Is there a provision for parents to stay on campus?",
+      "chunkIndex": 11,
+      "wordCount": 40,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "faqs_common_objections_12",
+    "text": "Q: Are the hostel rooms AC or Non-AC?\nAditya University has both AC and Non-AC hostel rooms on campus. Non-AC room fee is ₹1,15,000 per year and AC room fee is ₹1,30,000 per year. Both include laundry expenses and medical insurance up to ₹2,00,000.",
+    "metadata": {
+      "source": "common_objections",
+      "category": "faqs",
+      "patth": "knowledge_base/faqs/common_objections.md",
+      "head": "Q: Are the hostel rooms AC or Non-AC?",
+      "chunkIndex": 12,
+      "wordCount": 44,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "faqs_common_objections_13",
+    "text": "Q: What are the facilities available in the hostel?\nAditya University hostels offer separate hostels for boys and girls, well-furnished rooms, RO water in all student hostels, hot water facility, 24x7 ambulance and medical assistance, reading rooms, gym and library facility, North and South Indian cuisine, and beauty parlour among other facilities.",
+    "metadata": {
+      "source": "common_objections",
+      "category": "faqs",
+      "patth": "knowledge_base/faqs/common_objections.md",
+      "head": "Q: What are the facilities available in the hostel?",
+      "chunkIndex": 13,
+      "wordCount": 52,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "faqs_common_objections_14",
+    "text": "Q: Where can I find all relevant information about the university?\nFor university details, please visit: https://adityauniversity.in",
+    "metadata": {
+      "source": "common_objections",
+      "category": "faqs",
+      "patth": "knowledge_base/faqs/common_objections.md",
+      "head": "Q: Where can I find all relevant information about the university?",
+      "chunkIndex": 14,
+      "wordCount": 17,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "faqs_common_objections_15",
+    "text": "Q: Where can I find all relevant information about admissions?\nFor admission procedure details, please visit: https://apply.adityauniversity.in",
+    "metadata": {
+      "source": "common_objections",
+      "category": "faqs",
+      "patth": "knowledge_base/faqs/common_objections.md",
+      "head": "Q: Where can I find all relevant information about admissions?",
+      "chunkIndex": 15,
+      "wordCount": 17,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "faqs_common_objections_16",
+    "text": "Q: Can I speak to an admissions counsellor?\nYes, you can speak with our admissions counsellors at the following numbers:\n- 7386756662\n- 7731906667\n- 7095076664\n- 9553649666\n- 9010796664",
+    "metadata": {
+      "source": "common_objections",
+      "category": "faqs",
+      "patth": "knowledge_base/faqs/common_objections.md",
+      "head": "Q: Can I speak to an admissions counsellor?",
+      "chunkIndex": 16,
+      "wordCount": 30,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "faqs_common_objections_17",
+    "text": "Q: Does Aditya University conduct any online entrance exams?\nYes, Aditya University conducts the ASAT (Aditya Scholastic Aptitude Test) both in Virtual (Online) mode and Physical (Exam Centre) mode. ASAT fee is ₹500 per attempt with a maximum of 2 attempts allowed.",
+    "metadata": {
+      "source": "common_objections",
+      "category": "faqs",
+      "patth": "knowledge_base/faqs/common_objections.md",
+      "head": "Q: Does Aditya University conduct any online entrance exams?",
+      "chunkIndex": 17,
+      "wordCount": 42,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "faqs_common_objections_18",
+    "text": "Q: What management courses does Aditya University offer at UG and PG level?\nAditya University offers BBA at UG level and MBA at PG level with various specializations including Business Analytics (in association with KPMG), FinTech (in association with EY), Global Finance (in association with PwC), Healthcare Management (in association with Red Varsity), and Business (in association with Deloitte).",
+    "metadata": {
+      "source": "common_objections",
+      "category": "faqs",
+      "patth": "knowledge_base/faqs/common_objections.md",
+      "head": "Q: What management courses does Aditya University offer at UG and PG level?",
+      "chunkIndex": 18,
+      "wordCount": 59,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "faqs_common_objections_19",
+    "text": "Q: Who are the key contacts in the admissions office?\n- Dean of Admissions: Dr. A. Rama Krishna — Cell: 76590 76662\n- Associate Dean of Admissions: Dr. R. Giri Prasad — Cell: 70950 76663\n- Admissions Counsellors: 7386756662 / 7731906667 / 7095076664 / 9553649666 / 9010796664\n- Admissions Portal: apply.adityauniversity.in\n- University Website: adityauniversity.in",
+    "metadata": {
+      "source": "common_objections",
+      "category": "faqs",
+      "patth": "knowledge_base/faqs/common_objections.md",
+      "head": "Q: Who are the key contacts in the admissions office?",
+      "chunkIndex": 19,
+      "wordCount": 55,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "faqs_common_objections_20",
+    "text": "Q: What entrance exams does Aditya University accept for B.Tech admission?\nAditya University accepts EAPCET (AP and Telangana), JEE Main, and ASAT (Aditya Scholastic Aptitude Test) for B.Tech admissions.",
+    "metadata": {
+      "source": "common_objections",
+      "category": "faqs",
+      "patth": "knowledge_base/faqs/common_objections.md",
+      "head": "Q: What entrance exams does Aditya University accept for B.Tech admission?",
+      "chunkIndex": 20,
+      "wordCount": 29,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "faqs_common_objections_21",
+    "text": "Q: What is ASAT and how is it different from other entrance exams?\nASAT stands for Aditya Scholastic Aptitude Test. It is Aditya University's own entrance and scholarship test. It can be taken online from home or at a physical exam centre. Fee is ₹500 per attempt (maximum 2 attempts). Scholarships of 10% to 75% on tuition fee are offered based on ASAT scores. It is an alternative for students who do not have EAPCET or JEE scores.",
+    "metadata": {
+      "source": "common_objections",
+      "category": "faqs",
+      "patth": "knowledge_base/faqs/common_objections.md",
+      "head": "Q: What is ASAT and how is it different from other entrance exams?",
+      "chunkIndex": 21,
+      "wordCount": 78,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "faqs_common_objections_22",
+    "text": "Q: Is there a lateral entry admission for diploma holders into B.Tech?\nYes, diploma holders can apply for direct admission into II Year (2nd Year) B.Tech through ECET 2026. Tuition fee for Lateral Entry is ₹1,00,000 per year. Scholarships up to 100% are available based on ECET 2026 rank — Rank 1 to 25 gets 100% scholarship, Rank 26 to 50 gets 75%, Rank 51 to 100 gets 50%, and Rank 101 to 150 gets 25%.",
+    "metadata": {
+      "source": "common_objections",
+      "category": "faqs",
+      "patth": "knowledge_base/faqs/common_objections.md",
+      "head": "Q: Is there a lateral entry admission for diploma holders into B.Tech?",
+      "chunkIndex": 22,
+      "wordCount": 76,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "faqs_common_objections_23",
+    "text": "Q: What accreditations does Aditya University hold?\nAditya University is accredited with NAAC A++ Grade (highest grade), NBA Tier 1 accreditation, NIRF Rank Band 151-200, Times Higher Education Impact Rank (Diamond Category), and QS I-Gauge Diamond Rating.",
+    "metadata": {
+      "source": "common_objections",
+      "category": "faqs",
+      "patth": "knowledge_base/faqs/common_objections.md",
+      "head": "Q: What accreditations does Aditya University hold?",
+      "chunkIndex": 23,
+      "wordCount": 37,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "faqs_common_objections_24",
+    "text": "Q: Is the scholarship applicable every year or only for the first year?\nScholarship is applicable for the first year only. To continue receiving the scholarship in upcoming years, students must maintain a minimum CGPA of 8.0 with no backlogs in every semester.",
+    "metadata": {
+      "source": "common_objections",
+      "category": "faqs",
+      "patth": "knowledge_base/faqs/common_objections.md",
+      "head": "Q: Is the scholarship applicable every year or only for the first year?",
+      "chunkIndex": 24,
+      "wordCount": 43,
+      "lastUpdated": "2026-03"
+    }
+  }
+]

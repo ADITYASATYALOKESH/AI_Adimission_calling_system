@@ -1,0 +1,769 @@
+[
+  {
+    "chunkId": "Fees_pg_fees_0",
+    "text": "M.Tech Structural Engineering\n- Tuition Fee: ₹75,000 per year\n- School: School of Engineering\n- Program Type: M.Tech (PG)",
+    "metadata": {
+      "source": "pg_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/pg_fees.md",
+      "head": "M.Tech Structural Engineering",
+      "chunkIndex": 0,
+      "wordCount": 19,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_pg_fees_1",
+    "text": "M.Tech Power Electronics and Drives\n- Tuition Fee: ₹75,000 per year\n- School: School of Engineering\n- Program Type: M.Tech (PG)",
+    "metadata": {
+      "source": "pg_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/pg_fees.md",
+      "head": "M.Tech Power Electronics and Drives",
+      "chunkIndex": 1,
+      "wordCount": 21,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_pg_fees_2",
+    "text": "M.Tech Energy Science and Technology\n- Tuition Fee: ₹75,000 per year\n- School: School of Engineering\n- Program Type: M.Tech (PG)",
+    "metadata": {
+      "source": "pg_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/pg_fees.md",
+      "head": "M.Tech Energy Science and Technology",
+      "chunkIndex": 2,
+      "wordCount": 21,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_pg_fees_3",
+    "text": "M.Tech VLSI Design\n- Tuition Fee: ₹75,000 per year\n- School: School of Engineering\n- Program Type: M.Tech (PG)",
+    "metadata": {
+      "source": "pg_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/pg_fees.md",
+      "head": "M.Tech VLSI Design",
+      "chunkIndex": 3,
+      "wordCount": 19,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_pg_fees_4",
+    "text": "M.Tech CSE AI and ML\n- Tuition Fee: ₹75,000 per year\n- School: School of Engineering\n- Program Type: M.Tech (PG)",
+    "metadata": {
+      "source": "pg_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/pg_fees.md",
+      "head": "M.Tech CSE AI and ML",
+      "chunkIndex": 4,
+      "wordCount": 21,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_pg_fees_5",
+    "text": "M.Tech Computer Science and Engineering\n- Tuition Fee: ₹75,000 per year\n- School: School of Engineering\n- Program Type: M.Tech (PG)",
+    "metadata": {
+      "source": "pg_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/pg_fees.md",
+      "head": "M.Tech Computer Science and Engineering",
+      "chunkIndex": 5,
+      "wordCount": 21,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_pg_fees_6",
+    "text": "M.Tech Artificial Intelligence and Data Science\n- Tuition Fee: ₹75,000 per year\n- School: School of Engineering\n- Program Type: M.Tech (PG)",
+    "metadata": {
+      "source": "pg_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/pg_fees.md",
+      "head": "M.Tech Artificial Intelligence and Data Science",
+      "chunkIndex": 6,
+      "wordCount": 22,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_pg_fees_7",
+    "text": "M.Sc Real Estate Valuation\n- Tuition Fee: ₹75,000 per year\n- School: School of Engineering\n- Program Type: M.Sc (PG)",
+    "metadata": {
+      "source": "pg_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/pg_fees.md",
+      "head": "M.Sc Real Estate Valuation",
+      "chunkIndex": 7,
+      "wordCount": 20,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_pg_fees_8",
+    "text": "MCA (Master of Computer Applications)\n- Tuition Fee: ₹1,00,000 per year\n- School: School of Engineering\n- Program Type: PG",
+    "metadata": {
+      "source": "pg_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/pg_fees.md",
+      "head": "MCA (Master of Computer Applications)",
+      "chunkIndex": 8,
+      "wordCount": 20,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_pg_fees_9",
+    "text": "MBA in Association with Deloitte\n- Tuition Fee: ₹1,65,000 per year\n- School: School of Business\n- Program Type: MBA (PG)",
+    "metadata": {
+      "source": "pg_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/pg_fees.md",
+      "head": "MBA in Association with Deloitte",
+      "chunkIndex": 9,
+      "wordCount": 21,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_pg_fees_10",
+    "text": "MBA Business Analytics in Association with KPMG\n- Tuition Fee: ₹2,50,000 per year\n- School: School of Business\n- Program Type: MBA (PG)",
+    "metadata": {
+      "source": "pg_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/pg_fees.md",
+      "head": "MBA Business Analytics in Association with KPMG",
+      "chunkIndex": 10,
+      "wordCount": 23,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_pg_fees_11",
+    "text": "MBA Global Finance in Association with PwC\n- Tuition Fee: ₹2,50,000 per year\n- School: School of Business\n- Program Type: MBA (PG)",
+    "metadata": {
+      "source": "pg_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/pg_fees.md",
+      "head": "MBA Global Finance in Association with PwC",
+      "chunkIndex": 11,
+      "wordCount": 23,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_pg_fees_12",
+    "text": "MBA FinTech in Association with EY\n- Tuition Fee: ₹2,50,000 per year\n- School: School of Business\n- Program Type: MBA (PG)",
+    "metadata": {
+      "source": "pg_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/pg_fees.md",
+      "head": "MBA FinTech in Association with EY",
+      "chunkIndex": 12,
+      "wordCount": 22,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_pg_fees_13",
+    "text": "MBA Health Care Management in Association with Red Varsity\n- Tuition Fee: ₹2,50,000 per year\n- School: School of Business\n- Program Type: MBA (PG)",
+    "metadata": {
+      "source": "pg_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/pg_fees.md",
+      "head": "MBA Health Care Management in Association with Red Varsity",
+      "chunkIndex": 13,
+      "wordCount": 25,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_pg_fees_14",
+    "text": "MBA for Working Professionals\n- Tuition Fee: ₹1,75,000 per year\n- School: School of Business\n- Program Type: MBA (PG)\n- Note: Designed for working professionals with flexible schedule",
+    "metadata": {
+      "source": "pg_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/pg_fees.md",
+      "head": "MBA for Working Professionals",
+      "chunkIndex": 14,
+      "wordCount": 29,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_pg_fees_15",
+    "text": "M.Pharmacy Pharmaceutics\n- Tuition Fee: ₹75,000 per year\n- School: School of Pharmacy\n- Program Type: PG (Pharmacy)",
+    "metadata": {
+      "source": "pg_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/pg_fees.md",
+      "head": "M.Pharmacy Pharmaceutics",
+      "chunkIndex": 15,
+      "wordCount": 18,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_pg_fees_16",
+    "text": "M.Pharmacy Pharmaceutical Analysis\n- Tuition Fee: ₹75,000 per year\n- School: School of Pharmacy\n- Program Type: PG (Pharmacy)",
+    "metadata": {
+      "source": "pg_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/pg_fees.md",
+      "head": "M.Pharmacy Pharmaceutical Analysis",
+      "chunkIndex": 16,
+      "wordCount": 19,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_pg_fees_17",
+    "text": "M.Sc Forensic Science\n- Tuition Fee: ₹75,000 per year\n- School: School of Sciences\n- Program Type: M.Sc (PG)",
+    "metadata": {
+      "source": "pg_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/pg_fees.md",
+      "head": "M.Sc Forensic Science",
+      "chunkIndex": 17,
+      "wordCount": 19,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_pg_fees_18",
+    "text": "M.Sc Cyber Security and Digital Forensics\n- Tuition Fee: ₹75,000 per year\n- School: School of Sciences\n- Program Type: M.Sc (PG)",
+    "metadata": {
+      "source": "pg_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/pg_fees.md",
+      "head": "M.Sc Cyber Security and Digital Forensics",
+      "chunkIndex": 18,
+      "wordCount": 22,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_pg_fees_19",
+    "text": "Hostel Fee (PG Students)\n- Non-AC Room: ₹1,15,000 per year\n- AC Room: ₹1,30,000 per year\n- Includes: Laundry expenses and medical insurance up to ₹2,00,000",
+    "metadata": {
+      "source": "pg_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/pg_fees.md",
+      "head": "Hostel Fee (PG Students)",
+      "chunkIndex": 19,
+      "wordCount": 26,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_phd_fees_0",
+    "text": "PhD Registration Fee\n- One-Time Registration Fee: ₹10,000\n- Paid at the time of initial enrollment\n- Non-Refundable",
+    "metadata": {
+      "source": "phd_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/phd_fees.md",
+      "head": "PhD Registration Fee",
+      "chunkIndex": 0,
+      "wordCount": 18,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_phd_fees_1",
+    "text": "PhD Full Time — Annual Research Fee\n- Annual Research Fee: ₹25,000 per year\n- Applicable for all Full Time PhD scholars\n- Departments: CSE, ECE, EEE, Mechanical, Civil, Management, Pharmacy, Agriculture, Sciences\n- Duration: 3 to 5 years",
+    "metadata": {
+      "source": "phd_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/phd_fees.md",
+      "head": "PhD Full Time — Annual Research Fee",
+      "chunkIndex": 1,
+      "wordCount": 39,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_phd_fees_2",
+    "text": "PhD Part Time — Annual Research Fee\n- Annual Research Fee: ₹30,000 per year\n- Applicable for all Part Time PhD scholars\n- Departments: CSE, ECE, EEE, Mechanical, Civil, Management, Pharmacy, Agriculture, Sciences\n- Duration: 4 to 6 years",
+    "metadata": {
+      "source": "phd_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/phd_fees.md",
+      "head": "PhD Part Time — Annual Research Fee",
+      "chunkIndex": 2,
+      "wordCount": 39,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_phd_fees_3",
+    "text": "PhD Course Work Fee\n- Course Work Fee: ₹15,000 (One Time)\n- Paid in the first semester only\n- Mandatory for all PhD scholars (Full Time and Part Time)\n- Duration: 1 semester",
+    "metadata": {
+      "source": "phd_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/phd_fees.md",
+      "head": "PhD Course Work Fee",
+      "chunkIndex": 3,
+      "wordCount": 33,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_phd_fees_4",
+    "text": "PhD Thesis Submission Fee\n- Thesis Submission Fee: ₹10,000 (One Time)\n- Paid at the time of final thesis submission\n- Includes evaluation and examination charges",
+    "metadata": {
+      "source": "phd_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/phd_fees.md",
+      "head": "PhD Thesis Submission Fee",
+      "chunkIndex": 4,
+      "wordCount": 26,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_phd_fees_5",
+    "text": "PhD Re-Registration Fee (If Extended Beyond Stipulated Duration)\n- Re-Registration Fee: ₹5,000 per semester\n- Applicable if scholar exceeds the maximum duration\n- Subject to approval by Research Committee",
+    "metadata": {
+      "source": "phd_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/phd_fees.md",
+      "head": "PhD Re-Registration Fee (If Extended Beyond Stipulated Duration)",
+      "chunkIndex": 5,
+      "wordCount": 29,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_phd_fees_6",
+    "text": "PhD Fellowship and Fee Waiver\n- UGC / CSIR / GATE / ICAR fellowship holders: Annual Research Fee waived\n- Waiver subject to submission of valid fellowship sanction letter every year\n- Fellowship scholars must maintain active fellowship status\n- Applicable Departments: CSE, ECE, EEE, Mechanical, Management, Pharmacy, Agriculture",
+    "metadata": {
+      "source": "phd_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/phd_fees.md",
+      "head": "PhD Fellowship and Fee Waiver",
+      "chunkIndex": 6,
+      "wordCount": 49,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_phd_fees_7",
+    "text": "PhD Total Estimated Cost — Full Time (3 Years)\n- Admission Fee: ₹15,000 (one time)\n- Registration Fee: ₹10,000 (one time)\n- Course Work Fee: ₹15,000 (one time)\n- Annual Research Fee: ₹25,000 x 3 years = ₹75,000\n- Thesis Submission Fee: ₹10,000 (one time)\n- Estimated Total (3 Years): ₹1,25,000",
+    "metadata": {
+      "source": "phd_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/phd_fees.md",
+      "head": "PhD Total Estimated Cost — Full Time (3 Years)",
+      "chunkIndex": 7,
+      "wordCount": 51,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_phd_fees_8",
+    "text": "PhD Total Estimated Cost — Part Time (4 Years)\n- Admission Fee: ₹15,000 (one time)\n- Registration Fee: ₹10,000 (one time)\n- Course Work Fee: ₹15,000 (one time)\n- Annual Research Fee: ₹30,000 x 4 years = ₹1,20,000\n- Thesis Submission Fee: ₹10,000 (one time)\n- Estimated Total (4 Years): ₹1,70,000",
+    "metadata": {
+      "source": "phd_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/phd_fees.md",
+      "head": "PhD Total Estimated Cost — Part Time (4 Years)",
+      "chunkIndex": 8,
+      "wordCount": 51,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_phd_fees_9",
+    "text": "PhD Hostel Fee (For Full Time Residential Scholars)\n- Non-AC Room: ₹1,15,000 per year\n- AC Room: ₹1,30,000 per year\n- Includes: Laundry expenses and medical insurance up to ₹2,00,000\n- Available for Full Time PhD scholars only",
+    "metadata": {
+      "source": "phd_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/phd_fees.md",
+      "head": "PhD Hostel Fee (For Full Time Residential Scholars)",
+      "chunkIndex": 9,
+      "wordCount": 38,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_phd_fees_10",
+    "text": "PhD Fee Payment Schedule\n- Admission Fee + Registration Fee: Paid at time of joining\n- Course Work Fee: Paid in Semester 1\n- Annual Research Fee: Paid at the beginning of each academic year\n- Thesis Fee: Paid at time of thesis submission\n- Payment Mode: Online / DD in favour of \"Aditya University\"",
+    "metadata": {
+      "source": "phd_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/phd_fees.md",
+      "head": "PhD Fee Payment Schedule",
+      "chunkIndex": 10,
+      "wordCount": 55,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_phd_fees_11",
+    "text": "PhD Contact for Fee Queries\n- Research Cell: research@adityauniversity.in\n- Phone: Contact Admissions Office\n- Dean Admissions: Dr. A. Rama Krishna — Cell: 76590 76662\n- Assoc. Dean Admissions: Dr. R. Giri Prasad — Cell: 70950 76663",
+    "metadata": {
+      "source": "phd_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/phd_fees.md",
+      "head": "PhD Contact for Fee Queries",
+      "chunkIndex": 11,
+      "wordCount": 37,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_ug_fees_0",
+    "text": "B.Tech CSE (Computer Science and Engineering)\n- Tuition Fee: ₹2,75,000 per year\n- School: School of Engineering\n- Program Type: B.Tech (UG)",
+    "metadata": {
+      "source": "ug_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/ug_fees.md",
+      "head": "B.Tech CSE (Computer Science and Engineering)",
+      "chunkIndex": 0,
+      "wordCount": 22,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_ug_fees_1",
+    "text": "B.Tech AI & ML (Artificial Intelligence and Machine Learning)\n- Tuition Fee: ₹2,50,000 per year\n- School: School of Engineering\n- Program Type: B.Tech (UG)",
+    "metadata": {
+      "source": "ug_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/ug_fees.md",
+      "head": "B.Tech AI & ML (Artificial Intelligence and Machine Learning)",
+      "chunkIndex": 1,
+      "wordCount": 25,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_ug_fees_2",
+    "text": "B.Tech CSE Data Science\n- Tuition Fee: ₹2,00,000 per year\n- School: School of Engineering\n- Program Type: B.Tech (UG)",
+    "metadata": {
+      "source": "ug_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/ug_fees.md",
+      "head": "B.Tech CSE Data Science",
+      "chunkIndex": 2,
+      "wordCount": 20,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_ug_fees_3",
+    "text": "B.Tech ECE (Electronics and Communication Engineering)\n- Tuition Fee: ₹2,00,000 per year\n- School: School of Engineering\n- Program Type: B.Tech (UG)",
+    "metadata": {
+      "source": "ug_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/ug_fees.md",
+      "head": "B.Tech ECE (Electronics and Communication Engineering)",
+      "chunkIndex": 3,
+      "wordCount": 22,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_ug_fees_4",
+    "text": "B.Tech EEE (Electrical and Electronics Engineering)\n- Tuition Fee: ₹1,00,000 per year\n- School: School of Engineering\n- Program Type: B.Tech (UG)",
+    "metadata": {
+      "source": "ug_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/ug_fees.md",
+      "head": "B.Tech EEE (Electrical and Electronics Engineering)",
+      "chunkIndex": 4,
+      "wordCount": 22,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_ug_fees_5",
+    "text": "B.Tech Civil Engineering\n- Tuition Fee: ₹1,00,000 per year\n- School: School of Engineering\n- Program Type: B.Tech (UG)",
+    "metadata": {
+      "source": "ug_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/ug_fees.md",
+      "head": "B.Tech Civil Engineering",
+      "chunkIndex": 5,
+      "wordCount": 19,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_ug_fees_6",
+    "text": "B.Tech Mechanical Engineering\n- Tuition Fee: ₹1,00,000 per year\n- School: School of Engineering\n- Program Type: B.Tech (UG)",
+    "metadata": {
+      "source": "ug_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/ug_fees.md",
+      "head": "B.Tech Mechanical Engineering",
+      "chunkIndex": 6,
+      "wordCount": 19,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_ug_fees_7",
+    "text": "B.Tech Petroleum Technology\n- Tuition Fee: ₹1,00,000 per year\n- School: School of Engineering\n- Program Type: B.Tech (UG)",
+    "metadata": {
+      "source": "ug_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/ug_fees.md",
+      "head": "B.Tech Petroleum Technology",
+      "chunkIndex": 7,
+      "wordCount": 19,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_ug_fees_8",
+    "text": "B.Tech Agricultural Engineering\n- Tuition Fee: ₹1,00,000 per year\n- School: School of Engineering\n- Program Type: B.Tech (UG)",
+    "metadata": {
+      "source": "ug_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/ug_fees.md",
+      "head": "B.Tech Agricultural Engineering",
+      "chunkIndex": 8,
+      "wordCount": 19,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_ug_fees_9",
+    "text": "B.Tech Mining Engineering\n- Tuition Fee: ₹1,00,000 per year\n- School: School of Engineering\n- Program Type: B.Tech (UG)",
+    "metadata": {
+      "source": "ug_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/ug_fees.md",
+      "head": "B.Tech Mining Engineering",
+      "chunkIndex": 9,
+      "wordCount": 19,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_ug_fees_10",
+    "text": "B.Tech CSE in Association with SAP (Industry Collaborated)\n- Tuition Fee: ₹2,75,000 + ₹60,000 per year\n- Total Fee: ₹3,35,000 per year\n- School: School of Engineering\n- Program Type: B.Tech Industry Collaborated",
+    "metadata": {
+      "source": "ug_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/ug_fees.md",
+      "head": "B.Tech CSE in Association with SAP (Industry Collaborated)",
+      "chunkIndex": 10,
+      "wordCount": 33,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_ug_fees_11",
+    "text": "B.Tech CSE in Association with Google Cloud (Industry Collaborated)\n- Tuition Fee: ₹2,75,000 + ₹50,000 per year\n- Total Fee: ₹3,25,000 per year\n- School: School of Engineering\n- Program Type: B.Tech Industry Collaborated",
+    "metadata": {
+      "source": "ug_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/ug_fees.md",
+      "head": "B.Tech CSE in Association with Google Cloud (Industry Collaborated)",
+      "chunkIndex": 11,
+      "wordCount": 34,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_ug_fees_12",
+    "text": "B.Tech AIML in Association with Microsoft (Industry Collaborated)\n- Tuition Fee: ₹2,50,000 + ₹60,000 per year\n- Total Fee: ₹3,10,000 per year\n- School: School of Engineering\n- Program Type: B.Tech Industry Collaborated",
+    "metadata": {
+      "source": "ug_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/ug_fees.md",
+      "head": "B.Tech AIML in Association with Microsoft (Industry Collaborated)",
+      "chunkIndex": 12,
+      "wordCount": 33,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_ug_fees_13",
+    "text": "B.Tech AIML in Association with Google Cloud (Industry Collaborated)\n- Tuition Fee: ₹2,50,000 + ₹50,000 per year\n- Total Fee: ₹3,00,000 per year\n- School: School of Engineering\n- Program Type: B.Tech Industry Collaborated",
+    "metadata": {
+      "source": "ug_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/ug_fees.md",
+      "head": "B.Tech AIML in Association with Google Cloud (Industry Collaborated)",
+      "chunkIndex": 13,
+      "wordCount": 34,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_ug_fees_14",
+    "text": "B.Tech CSE Data Science in Association with Google Cloud (Industry Collaborated)\n- Tuition Fee: ₹2,00,000 + ₹50,000 per year\n- Total Fee: ₹2,50,000 per year\n- School: School of Engineering\n- Program Type: B.Tech Industry Collaborated",
+    "metadata": {
+      "source": "ug_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/ug_fees.md",
+      "head": "B.Tech CSE Data Science in Association with Google Cloud (Industry Collaborated)",
+      "chunkIndex": 14,
+      "wordCount": 36,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_ug_fees_15",
+    "text": "BCA (Bachelor of Computer Applications)\n- Tuition Fee: ₹1,00,000 per year\n- School: School of Engineering\n- Program Type: UG",
+    "metadata": {
+      "source": "ug_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/ug_fees.md",
+      "head": "BCA (Bachelor of Computer Applications)",
+      "chunkIndex": 15,
+      "wordCount": 20,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_ug_fees_16",
+    "text": "B.Pharmacy\n- Tuition Fee: ₹1,80,000 per year\n- School: School of Pharmacy\n- Program Type: UG (Pharmacy)",
+    "metadata": {
+      "source": "ug_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/ug_fees.md",
+      "head": "B.Pharmacy",
+      "chunkIndex": 16,
+      "wordCount": 17,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_ug_fees_17",
+    "text": "Pharma-D\n- Tuition Fee: ₹2,50,000 per year\n- School: School of Pharmacy\n- Program Type: UG (Pharmacy)",
+    "metadata": {
+      "source": "ug_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/ug_fees.md",
+      "head": "Pharma-D",
+      "chunkIndex": 17,
+      "wordCount": 17,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_ug_fees_18",
+    "text": "BBA in Association with Deloitte\n- Tuition Fee: ₹1,40,000 per year\n- School: School of Business\n- Program Type: UG (BBA)",
+    "metadata": {
+      "source": "ug_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/ug_fees.md",
+      "head": "BBA in Association with Deloitte",
+      "chunkIndex": 18,
+      "wordCount": 21,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_ug_fees_19",
+    "text": "BBA Business Analytics in Association with KPMG\n- Tuition Fee: ₹1,65,000 per year\n- School: School of Business\n- Program Type: UG (BBA)",
+    "metadata": {
+      "source": "ug_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/ug_fees.md",
+      "head": "BBA Business Analytics in Association with KPMG",
+      "chunkIndex": 19,
+      "wordCount": 23,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_ug_fees_20",
+    "text": "BBA Global Finance in Association with PwC\n- Tuition Fee: ₹1,65,000 per year\n- School: School of Business\n- Program Type: UG (BBA)",
+    "metadata": {
+      "source": "ug_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/ug_fees.md",
+      "head": "BBA Global Finance in Association with PwC",
+      "chunkIndex": 20,
+      "wordCount": 23,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_ug_fees_21",
+    "text": "BBA FinTech in Association with EY\n- Tuition Fee: ₹1,65,000 per year\n- School: School of Business\n- Program Type: UG (BBA)",
+    "metadata": {
+      "source": "ug_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/ug_fees.md",
+      "head": "BBA FinTech in Association with EY",
+      "chunkIndex": 21,
+      "wordCount": 22,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_ug_fees_22",
+    "text": "BBA Health Care Management in Association with Red Varsity\n- Tuition Fee: ₹1,65,000 per year\n- School: School of Business\n- Program Type: UG (BBA)",
+    "metadata": {
+      "source": "ug_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/ug_fees.md",
+      "head": "BBA Health Care Management in Association with Red Varsity",
+      "chunkIndex": 22,
+      "wordCount": 25,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_ug_fees_23",
+    "text": "B.Sc Forensic Science\n- Tuition Fee: ₹1,00,000 per year\n- School: School of Sciences\n- Program Type: UG (B.Sc)",
+    "metadata": {
+      "source": "ug_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/ug_fees.md",
+      "head": "B.Sc Forensic Science",
+      "chunkIndex": 23,
+      "wordCount": 19,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_ug_fees_24",
+    "text": "B.Sc Cyber Security and Digital Forensics\n- Tuition Fee: ₹1,00,000 per year\n- School: School of Sciences\n- Program Type: UG (B.Sc)",
+    "metadata": {
+      "source": "ug_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/ug_fees.md",
+      "head": "B.Sc Cyber Security and Digital Forensics",
+      "chunkIndex": 24,
+      "wordCount": 22,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_ug_fees_25",
+    "text": "B.Tech Lateral Entry\n- Admission Fee: ₹15,000 (Non-Refundable)\n- Tuition Fee: ₹1,00,000 per year\n- Entry: Direct 2nd Year (II Year)\n- Academic Year: 2026-27\n- Applicable Branches: CSE, ECE, EEE, MECH, CIVIL, IT and all B.Tech branches",
+    "metadata": {
+      "source": "ug_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/ug_fees.md",
+      "head": "B.Tech Lateral Entry",
+      "chunkIndex": 25,
+      "wordCount": 38,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "Fees_ug_fees_26",
+    "text": "Hostel Fee\n- Non-AC Room: ₹1,15,000 per year\n- AC Room: ₹1,30,000 per year\n- Includes: Laundry expenses and medical insurance up to ₹2,00,000",
+    "metadata": {
+      "source": "ug_fees",
+      "category": "Fees",
+      "patth": "knowledge_base/Fees/ug_fees.md",
+      "head": "Hostel Fee",
+      "chunkIndex": 26,
+      "wordCount": 24,
+      "lastUpdated": "2026-03"
+    }
+  }
+]

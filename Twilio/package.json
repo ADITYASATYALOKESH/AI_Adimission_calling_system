@@ -1,0 +1,32 @@
+{
+  "name": "realtime-ai-voice-calling",
+  "version": "1.0.0",
+  "description": "Production-grade realtime AI voice calling system with Twilio + Sarvam + RAG",
+  "main": "src/server.js",
+  "scripts": {
+    "start":   "node src/server.js",
+    "dev":     "nodemon src/server.js",
+    "call":    "node scripts/makeCall.js",
+    "monitor": "node scripts/monitor.js",
+    "sessions":"node scripts/listSessions.js",
+    "hangup":  "node scripts/hangUp.js",
+    "health":  "node scripts/checkHealth.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "form-data": "^4.0.0",
+    "ioredis": "^5.3.2",
+    "node-fetch": "^2.7.0",
+    "twilio": "^4.19.0",
+    "uuid": "^9.0.0",
+    "ws": "^8.16.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

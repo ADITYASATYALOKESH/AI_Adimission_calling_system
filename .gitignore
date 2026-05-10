@@ -1,0 +1,62 @@
+# --- Dependencies -----------------------------------------------------------
+node_modules/
+**/node_modules/
+.pnp
+.pnp.js
+
+# --- Build output -----------------------------------------------------------
+dist/
+dist-ssr/
+build/
+out/
+.next/
+.turbo/
+coverage/
+
+# --- Environment / secrets --------------------------------------------------
+# Never commit real credentials. The .env.example files in each subfolder
+# document the required variables.
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# --- Logs -------------------------------------------------------------------
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# --- Caches -----------------------------------------------------------------
+.cache/
+.parcel-cache/
+.eslintcache
+.vite/
+
+# --- Editor / OS --------------------------------------------------------------
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# --- Local-only --------------------------------------------------------------
+*.local
+.history/
+.tmp/
+tmp/
+
+# --- Claude Code workspace ---------------------------------------------------
+.claude/

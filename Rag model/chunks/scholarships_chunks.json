@@ -1,0 +1,535 @@
+[
+  {
+    "chunkId": "scholarships_category_scholarships_0",
+    "text": "SC (Scheduled Caste) Scholarship\n- Eligibility: Students belonging to SC category with valid caste certificate issued by competent authority (AP or TS)\n- Benefit: Fee Reimbursement as per AP / TS Government norms\n- Additional University Support: 10% additional discount on tuition fee for SC students not covered under government reimbursement\n- Income Limit: As per AP / TS Government scholarship norms\n- Documents Required:\n  - Caste Certificate (issued by MRO or above)\n  - Income Certificate (issued by MRO or above)\n  - Aadhaar Card\n  - Bank account details (student's own account)\n  - Previous academic marksheets",
+    "metadata": {
+      "source": "category_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/category_scholarships.md",
+      "head": "SC (Scheduled Caste) Scholarship",
+      "chunkIndex": 0,
+      "wordCount": 95,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_category_scholarships_1",
+    "text": "ST (Scheduled Tribe) Scholarship\n- Eligibility: Students belonging to ST category with valid tribe certificate issued by competent authority (AP or TS)\n- Benefit: Fee Reimbursement as per AP / TS Government norms\n- Additional University Support: 10% additional discount on tuition fee for ST students not covered under government reimbursement\n- Income Limit: As per AP / TS Government scholarship norms\n- Documents Required:\n  - Tribe Certificate (issued by MRO or above)\n  - Income Certificate (issued by MRO or above)\n  - Aadhaar Card\n  - Bank account details (student's own account)\n  - Previous academic marksheets",
+    "metadata": {
+      "source": "category_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/category_scholarships.md",
+      "head": "ST (Scheduled Tribe) Scholarship",
+      "chunkIndex": 1,
+      "wordCount": 95,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_category_scholarships_2",
+    "text": "OBC (Other Backward Class) Scholarship\n- Eligibility: Students belonging to BC-A, BC-B, BC-C, BC-D, BC-E categories with valid caste certificate\n- Benefit: Fee Reimbursement as per AP / TS Government norms (for eligible income group)\n- Additional University Support: 5% additional discount on tuition fee for OBC students\n- Income Limit: As per AP / TS Government scholarship norms\n- Documents Required:\n  - BC Caste Certificate (issued by MRO or above)\n  - Income Certificate (issued by MRO or above)\n  - Aadhaar Card\n  - Bank account details\n  - Previous academic marksheets",
+    "metadata": {
+      "source": "category_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/category_scholarships.md",
+      "head": "OBC (Other Backward Class) Scholarship",
+      "chunkIndex": 2,
+      "wordCount": 90,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_category_scholarships_3",
+    "text": "EWS (Economically Weaker Section) Scholarship\n- Eligibility: Students from General category with annual family income below ₹8,00,000\n- Benefit: 10% concession on tuition fee\n- Documents Required:\n  - EWS Certificate issued by competent authority (Tehsildar / MRO)\n  - Income Certificate\n  - Aadhaar Card\n  - Previous academic marksheets\n- Note: EWS scholarship is applicable only to students not availing any other government scholarship",
+    "metadata": {
+      "source": "category_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/category_scholarships.md",
+      "head": "EWS (Economically Weaker Section) Scholarship",
+      "chunkIndex": 3,
+      "wordCount": 62,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_category_scholarships_4",
+    "text": "Differently Abled (Divyangjan) Scholarship\n- Eligibility: Students with minimum 40% disability as certified by Government Medical Board\n- Benefit: 25% concession on tuition fee\n- Additional Support: Priority seating in classrooms, accessible infrastructure, hostel ground floor allocation\n- Documents Required:\n  - Disability Certificate issued by Government Hospital / Medical Board\n  - Aadhaar Card\n  - Passport size photograph\n  - Previous academic marksheets",
+    "metadata": {
+      "source": "category_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/category_scholarships.md",
+      "head": "Differently Abled (Divyangjan) Scholarship",
+      "chunkIndex": 4,
+      "wordCount": 61,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_category_scholarships_5",
+    "text": "Single Girl Child Scholarship\n- Eligibility: Student who is the only girl child in the family\n- Benefit: 10% concession on tuition fee\n- Applicable Programs: All UG and PG programs\n- Documents Required:\n  - Affidavit from parent confirming single girl child status\n  - Aadhaar Card of student and parents\n  - Family photo",
+    "metadata": {
+      "source": "category_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/category_scholarships.md",
+      "head": "Single Girl Child Scholarship",
+      "chunkIndex": 5,
+      "wordCount": 53,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_category_scholarships_6",
+    "text": "Defence and Ex-Servicemen Ward Scholarship\n- Eligibility: Children of serving or retired Defence personnel (Army, Navy, Air Force)\n- Benefit: 15% concession on tuition fee\n- Documents Required:\n  - Service Certificate or Discharge Certificate of parent\n  - Dependent Certificate\n  - Aadhaar Card of student and parent",
+    "metadata": {
+      "source": "category_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/category_scholarships.md",
+      "head": "Defence and Ex-Servicemen Ward Scholarship",
+      "chunkIndex": 6,
+      "wordCount": 46,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_category_scholarships_7",
+    "text": "Aditya Alumni Ward Scholarship\n- Eligibility: Children or siblings of Aditya University alumni\n- Benefit: 10% concession on tuition fee\n- Documents Required:\n  - Proof of alumni relationship (alumni ID or degree certificate of parent or sibling)\n  - Aadhaar Card",
+    "metadata": {
+      "source": "category_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/category_scholarships.md",
+      "head": "Aditya Alumni Ward Scholarship",
+      "chunkIndex": 7,
+      "wordCount": 40,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_category_scholarships_8",
+    "text": "NRI and Foreign National Category\n- Eligibility: Students with NRI status or foreign nationality\n- Tuition Fee: As per NRI fee structure (contact admissions office for current NRI fee)\n- Scholarship: Merit-based NRI scholarship available for top performers\n- Contact: Admissions Office for detailed NRI fee and scholarship structure",
+    "metadata": {
+      "source": "category_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/category_scholarships.md",
+      "head": "NRI and Foreign National Category",
+      "chunkIndex": 8,
+      "wordCount": 49,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_category_scholarships_9",
+    "text": "Category Scholarship — Combination Rules\n- Government scholarships (SC/ST/OBC/EWS reimbursement) can be combined with University merit scholarships\n- University category concessions (Differently Abled, Single Girl Child, Defence, Alumni Ward) cannot be combined with each other\n- Only the highest applicable University concession will be applied\n- Government reimbursement scholarships are applied separately by the government directly to student accounts\n- Sports scholarship cannot be combined with category scholarship — higher value is applied",
+    "metadata": {
+      "source": "category_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/category_scholarships.md",
+      "head": "Category Scholarship — Combination Rules",
+      "chunkIndex": 9,
+      "wordCount": 73,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_category_scholarships_10",
+    "text": "Category Scholarship Application Process\n- Step 1: Collect Category Scholarship Application Form from Admissions Office or download from admissions.adityauniversity.in\n- Step 2: Attach all required documents (self-attested copies)\n- Step 3: Submit to the Scholarship Cell at Admissions Office before the deadline\n- Step 4: Documents verified by the Scholarship Committee\n- Step 5: Approved scholarships adjusted in fee payment challan\n- Deadline: Must be submitted within 30 days of joining",
+    "metadata": {
+      "source": "category_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/category_scholarships.md",
+      "head": "Category Scholarship Application Process",
+      "chunkIndex": 10,
+      "wordCount": 71,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_category_scholarships_11",
+    "text": "Government Scholarship Schemes Accepted\n- AP Jagananna Vidya Deevena Scheme (SC, ST, BC, EWS, Minority)\n- AP Jagananna Vasathi Deevena Scheme (Hostel support)\n- TS Government Fee Reimbursement Scheme\n- National Scholarship Portal (NSP) schemes\n- Post Matric Scholarship by Ministry of Social Justice\n- Students must apply independently on government portals — University provides required documents and support",
+    "metadata": {
+      "source": "category_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/category_scholarships.md",
+      "head": "Government Scholarship Schemes Accepted",
+      "chunkIndex": 11,
+      "wordCount": 59,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_category_scholarships_12",
+    "text": "Contact for Category Scholarship Queries\n- Dean of Admissions: Dr. A. Rama Krishna — Cell: 76590 76662\n- Associate Dean of Admissions: Dr. R. Giri Prasad — Cell: 70950 76663\n- Scholarship Cell: Available at Admissions Office, Surampalem Campus\n- Campus: Surampalem, East Godavari, Andhra Pradesh",
+    "metadata": {
+      "source": "category_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/category_scholarships.md",
+      "head": "Contact for Category Scholarship Queries",
+      "chunkIndex": 12,
+      "wordCount": 46,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_merit_scholarships_0",
+    "text": "B.Tech Scholarship via ASAT — CSE, AI&ML, DS, ECE Branches\n- 75% Scholarship: ASAT score above 97%\n- 50% Scholarship: ASAT score 95% to 96.9%\n- 25% Scholarship: ASAT score 92% to 94.9%\n- 10% Scholarship: ASAT score 90% to 91.9%\n- Applicable Branches: CSE, AI&ML, Data Science, ECE",
+    "metadata": {
+      "source": "merit_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/merit_scholarships.md",
+      "head": "B.Tech Scholarship via ASAT — CSE, AI&ML, DS, ECE Branches",
+      "chunkIndex": 0,
+      "wordCount": 49,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_merit_scholarships_1",
+    "text": "B.Tech Scholarship via ASAT — CE, EEE, ME, Ag.E, Ming.E, PT Branches\n- 75% Scholarship: ASAT score above 95%\n- 50% Scholarship: ASAT score 92% to 94.9%\n- 25% Scholarship: ASAT score 90% to 91.9%\n- 10% Scholarship: ASAT score 85% to 89.9%\n- Applicable Branches: Civil Engineering, EEE, Mechanical, Agricultural Engineering, Mining Engineering, Petroleum Technology",
+    "metadata": {
+      "source": "merit_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/merit_scholarships.md",
+      "head": "B.Tech Scholarship via ASAT — CE, EEE, ME, Ag.E, Ming.E, PT Branches",
+      "chunkIndex": 1,
+      "wordCount": 56,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_merit_scholarships_2",
+    "text": "B.Tech Scholarship via JEE Percentile — CSE, AI&ML, DS, ECE Branches\n- 100% Scholarship: JEE Percentile above 98\n- 75% Scholarship: JEE Percentile above 95\n- 50% Scholarship: JEE Percentile 90 to 94.9\n- 25% Scholarship: JEE Percentile 80 to 89.9\n- 10% Scholarship: JEE Percentile 70 to 79.9\n- Applicable Branches: CSE, AI&ML, Data Science, ECE",
+    "metadata": {
+      "source": "merit_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/merit_scholarships.md",
+      "head": "B.Tech Scholarship via JEE Percentile — CSE, AI&ML, DS, ECE Branches",
+      "chunkIndex": 2,
+      "wordCount": 57,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_merit_scholarships_3",
+    "text": "B.Tech Scholarship via JEE Percentile — CE, EEE, ME, Ag.E, Ming.E, PT Branches\n- 100% Scholarship: JEE Percentile above 95\n- 75% Scholarship: JEE Percentile above 90\n- 50% Scholarship: JEE Percentile 80 to 89.9\n- 25% Scholarship: JEE Percentile 70 to 79.9\n- 10% Scholarship: JEE Percentile 65 to 69.9\n- Applicable Branches: Civil Engineering, EEE, Mechanical, Agricultural Engineering, Mining Engineering, Petroleum Technology",
+    "metadata": {
+      "source": "merit_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/merit_scholarships.md",
+      "head": "B.Tech Scholarship via JEE Percentile — CE, EEE, ME, Ag.E, Ming.E, PT Branches",
+      "chunkIndex": 3,
+      "wordCount": 64,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_merit_scholarships_4",
+    "text": "B.Tech Scholarship via EAPCET Rank (AP and TS) — CSE, AI&ML, DS, ECE Branches\n- 75% Scholarship: EAPCET Rank 1 to 5000\n- 50% Scholarship: EAPCET Rank 5001 to 10000\n- 25% Scholarship: EAPCET Rank 10001 to 25000\n- 10% Scholarship: EAPCET Rank 25001 to 50000\n- Applicable Branches: CSE, AI&ML, Data Science, ECE",
+    "metadata": {
+      "source": "merit_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/merit_scholarships.md",
+      "head": "B.Tech Scholarship via EAPCET Rank (AP and TS) — CSE, AI&ML, DS, ECE Branches",
+      "chunkIndex": 4,
+      "wordCount": 54,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_merit_scholarships_5",
+    "text": "B.Tech Scholarship via EAPCET Rank (AP and TS) — CE, EEE, ME, Ag.E, Ming.E, PT Branches\n- 75% Scholarship: EAPCET Rank 1 to 10000\n- 50% Scholarship: EAPCET Rank 10001 to 25000\n- 25% Scholarship: EAPCET Rank 25001 to 50000\n- 10% Scholarship: EAPCET Rank 50001 to 75000\n- Applicable Branches: Civil Engineering, EEE, Mechanical, Agricultural Engineering, Mining Engineering, Petroleum Technology",
+    "metadata": {
+      "source": "merit_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/merit_scholarships.md",
+      "head": "B.Tech Scholarship via EAPCET Rank (AP and TS) — CE, EEE, ME, Ag.E, Ming.E, PT Branches",
+      "chunkIndex": 5,
+      "wordCount": 61,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_merit_scholarships_6",
+    "text": "B.Tech Scholarship via BIE Percentage (AP and TS) — CSE, AI&ML, DS, ECE Branches\n- 75% Scholarship: BIE score above 98%\n- 50% Scholarship: BIE score 96% to 97.9%\n- 25% Scholarship: BIE score 94% to 95.9%\n- 10% Scholarship: BIE score 92% to 93.9%\n- Applicable Branches: CSE, AI&ML, Data Science, ECE",
+    "metadata": {
+      "source": "merit_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/merit_scholarships.md",
+      "head": "B.Tech Scholarship via BIE Percentage (AP and TS) — CSE, AI&ML, DS, ECE Branches",
+      "chunkIndex": 6,
+      "wordCount": 53,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_merit_scholarships_7",
+    "text": "B.Tech Scholarship via BIE Percentage (AP and TS) — CE, EEE, ME, Ag.E, Ming.E, PT Branches\n- 75% Scholarship: BIE score above 95%\n- 50% Scholarship: BIE score 93% to 94.9%\n- 25% Scholarship: BIE score 90% to 92.9%\n- 10% Scholarship: BIE score 85% to 89.9%\n- Applicable Branches: Civil Engineering, EEE, Mechanical, Agricultural Engineering, Mining Engineering, Petroleum Technology",
+    "metadata": {
+      "source": "merit_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/merit_scholarships.md",
+      "head": "B.Tech Scholarship via BIE Percentage (AP and TS) — CE, EEE, ME, Ag.E, Ming.E, PT Branches",
+      "chunkIndex": 7,
+      "wordCount": 60,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_merit_scholarships_8",
+    "text": "B.Tech Scholarship via CBSE Marks — CSE, AI&ML, DS, ECE Branches\n- 75% Scholarship: CBSE marks above 450\n- 50% Scholarship: CBSE marks 425 to 449\n- 25% Scholarship: CBSE marks 400 to 424\n- 10% Scholarship: CBSE marks 375 to 399\n- Applicable Branches: CSE, AI&ML, Data Science, ECE",
+    "metadata": {
+      "source": "merit_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/merit_scholarships.md",
+      "head": "B.Tech Scholarship via CBSE Marks — CSE, AI&ML, DS, ECE Branches",
+      "chunkIndex": 8,
+      "wordCount": 50,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_merit_scholarships_9",
+    "text": "B.Tech Scholarship via CBSE Marks — CE, EEE, ME, Ag.E, Ming.E, PT Branches\n- 75% Scholarship: CBSE marks above 425\n- 50% Scholarship: CBSE marks 400 to 425\n- 25% Scholarship: CBSE marks 375 to 399\n- 10% Scholarship: CBSE marks 350 to 374\n- Applicable Branches: Civil Engineering, EEE, Mechanical, Agricultural Engineering, Mining Engineering, Petroleum Technology",
+    "metadata": {
+      "source": "merit_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/merit_scholarships.md",
+      "head": "B.Tech Scholarship via CBSE Marks — CE, EEE, ME, Ag.E, Ming.E, PT Branches",
+      "chunkIndex": 9,
+      "wordCount": 57,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_merit_scholarships_10",
+    "text": "B.Pharmacy and Pharma-D Scholarship via ASAT\n- 70% Scholarship: ASAT score above 97%\n- 50% Scholarship: ASAT score 95% to 96.9%\n- 25% Scholarship: ASAT score 92% to 94.9%\n- 10% Scholarship: ASAT score 90% to 91.9%",
+    "metadata": {
+      "source": "merit_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/merit_scholarships.md",
+      "head": "B.Pharmacy and Pharma-D Scholarship via ASAT",
+      "chunkIndex": 10,
+      "wordCount": 37,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_merit_scholarships_11",
+    "text": "B.Pharmacy and Pharma-D Scholarship via EAPCET Rank (AP and TS)\n- 70% Scholarship: EAPCET Rank 1 to 4000\n- 50% Scholarship: EAPCET Rank 4001 to 10000\n- 25% Scholarship: EAPCET Rank 10001 to 25000\n- 10% Scholarship: EAPCET Rank 25001 to 35000",
+    "metadata": {
+      "source": "merit_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/merit_scholarships.md",
+      "head": "B.Pharmacy and Pharma-D Scholarship via EAPCET Rank (AP and TS)",
+      "chunkIndex": 11,
+      "wordCount": 42,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_merit_scholarships_12",
+    "text": "B.Pharmacy and Pharma-D Scholarship via NEET\n- 70% Scholarship: NEET Rank 1 to 10000\n- 50% Scholarship: NEET Rank 10001 to 15000\n- 25% Scholarship: NEET Rank 15001 to 25000\n- 10% Scholarship: NEET Rank 25001 to 35000",
+    "metadata": {
+      "source": "merit_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/merit_scholarships.md",
+      "head": "B.Pharmacy and Pharma-D Scholarship via NEET",
+      "chunkIndex": 12,
+      "wordCount": 38,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_merit_scholarships_13",
+    "text": "B.Sc and BBA Scholarship via ASAT\n- 20% Scholarship: ASAT score above 95%\n- 15% Scholarship: ASAT score 92% to 94.9%\n- 10% Scholarship: ASAT score 90% to 91.9%\n- Applicable Programs: B.Sc Forensic Science, B.Sc Cyber Security and Digital Forensics, BBA (All Specializations)",
+    "metadata": {
+      "source": "merit_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/merit_scholarships.md",
+      "head": "B.Sc and BBA Scholarship via ASAT",
+      "chunkIndex": 13,
+      "wordCount": 44,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_merit_scholarships_14",
+    "text": "B.Sc and BBA Scholarship via BIE Percentage (AP and TS)\n- 20% Scholarship: BIE score above 95%\n- 15% Scholarship: BIE score 85% to 94.9%\n- 10% Scholarship: BIE score 75% to 84.9%\n- Applicable Programs: B.Sc Forensic Science, B.Sc Cyber Security and Digital Forensics, BBA (All Specializations)",
+    "metadata": {
+      "source": "merit_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/merit_scholarships.md",
+      "head": "B.Sc and BBA Scholarship via BIE Percentage (AP and TS)",
+      "chunkIndex": 14,
+      "wordCount": 48,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_merit_scholarships_15",
+    "text": "B.Sc and BBA Scholarship via CBSE Marks\n- 20% Scholarship: CBSE marks above 475\n- 15% Scholarship: CBSE marks 425 to 474\n- 10% Scholarship: CBSE marks 375 to 424\n- Applicable Programs: BBA (All Specializations)",
+    "metadata": {
+      "source": "merit_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/merit_scholarships.md",
+      "head": "B.Sc and BBA Scholarship via CBSE Marks",
+      "chunkIndex": 15,
+      "wordCount": 36,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_merit_scholarships_16",
+    "text": "MBA Scholarship via CAT Percentile\n- 50% Scholarship: CAT Percentile above 94\n- 25% Scholarship: CAT Percentile 85 to 94\n- 15% Scholarship: CAT Percentile 70 to 84.9\n- 10% Scholarship: CAT Percentile 60 to 69.9\n- Applicable Programs: MBA (All Specializations)",
+    "metadata": {
+      "source": "merit_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/merit_scholarships.md",
+      "head": "MBA Scholarship via CAT Percentile",
+      "chunkIndex": 16,
+      "wordCount": 42,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_merit_scholarships_17",
+    "text": "MBA Scholarship via NMAT, CMAT, XMAT, MAT Percentile\n- 25% Scholarship: Percentile above 94\n- 15% Scholarship: Percentile 85 to 94\n- 10% Scholarship: Percentile 75 to 84.9\n- Applicable Programs: MBA (All Specializations)",
+    "metadata": {
+      "source": "merit_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/merit_scholarships.md",
+      "head": "MBA Scholarship via NMAT, CMAT, XMAT, MAT Percentile",
+      "chunkIndex": 17,
+      "wordCount": 34,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_merit_scholarships_18",
+    "text": "B.Tech Lateral Entry Scholarship via ECET 2026 Rank\n- 100% Scholarship: ECET Rank 1 to 25\n- 75% Scholarship: ECET Rank 26 to 50\n- 50% Scholarship: ECET Rank 51 to 100\n- 25% Scholarship: ECET Rank 101 to 150\n- Entry: Direct admission into II Year B.Tech\n- Academic Year: 2026-27\n- Note: Same branch diploma → Branch Rank considered. Different branch → Integrated Rank considered.\n- Renewal: 8.0 CGPA with no backlogs in every semester is mandatory",
+    "metadata": {
+      "source": "merit_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/merit_scholarships.md",
+      "head": "B.Tech Lateral Entry Scholarship via ECET 2026 Rank",
+      "chunkIndex": 18,
+      "wordCount": 79,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_merit_scholarships_19",
+    "text": "Sports Scholarship\n- 75% Scholarship: National level sports participation\n- 100% Scholarship: International level sports participation\n- Subject to successful scrutiny by the University constituted committee\n- Applicable for aspirants with verified national or international level sports participation certificates",
+    "metadata": {
+      "source": "merit_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/merit_scholarships.md",
+      "head": "Sports Scholarship",
+      "chunkIndex": 19,
+      "wordCount": 39,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_sports_scholarships_0",
+    "text": "Sports Scholarship Slabs\n- 75% Scholarship: National level sports participation\n- 100% Scholarship: International level sports participation\n- No partial slabs — only National (75%) and International (100%) levels are considered",
+    "metadata": {
+      "source": "sports_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/sports_scholarships.md",
+      "head": "Sports Scholarship Slabs",
+      "chunkIndex": 0,
+      "wordCount": 31,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_sports_scholarships_1",
+    "text": "Eligible Sports Categories\n- Athletics (Track and Field)\n- Cricket\n- Football\n- Basketball\n- Volleyball\n- Badminton\n- Tennis\n- Table Tennis\n- Kabaddi\n- Kho-Kho\n- Chess\n- Swimming\n- Wrestling\n- Boxing\n- Weightlifting\n- Any sport recognized by the Sports Authority of India (SAI) or International Olympic Committee (IOC)",
+    "metadata": {
+      "source": "sports_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/sports_scholarships.md",
+      "head": "Eligible Sports Categories",
+      "chunkIndex": 1,
+      "wordCount": 53,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_sports_scholarships_2",
+    "text": "Applicable Programs for Sports Scholarship\n- B.Tech (All Branches including Industry Collaborated Programs)\n- BCA\n- BBA (All Specializations)\n- B.Pharmacy and Pharma-D\n- B.Sc (Forensic Science, Cyber Security and Digital Forensics)\n- MBA (All Specializations)\n- M.Tech (All Branches)\n- MCA\n- M.Pharmacy\n- M.Sc (All Programs)",
+    "metadata": {
+      "source": "sports_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/sports_scholarships.md",
+      "head": "Applicable Programs for Sports Scholarship",
+      "chunkIndex": 2,
+      "wordCount": 48,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_sports_scholarships_3",
+    "text": "Documents Required for Sports Scholarship\n- Participation Certificate from State / National / International Sports Body\n- Medal or Achievement Certificate (if applicable)\n- Certificate must be from a recognized sports federation or Sports Authority of India (SAI)\n- Certificate issued by School / College sports events are NOT eligible\n- Aadhaar Card copy\n- Recent passport size photograph\n- Filled Sports Scholarship Application Form (available at admissions office)",
+    "metadata": {
+      "source": "sports_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/sports_scholarships.md",
+      "head": "Documents Required for Sports Scholarship",
+      "chunkIndex": 3,
+      "wordCount": 69,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_sports_scholarships_4",
+    "text": "Sports Scholarship Verification Process\n- Step 1: Submit application form along with all required documents at the Admissions Office\n- Step 2: Documents verified by the University constituted Sports Scholarship Committee\n- Step 3: Physical verification or trial may be conducted by the Sports Department\n- Step 4: Committee decision is final and binding\n- Step 5: Scholarship amount adjusted in the fee payment at time of admission\n- Processing Time: 5 to 7 working days after document submission",
+    "metadata": {
+      "source": "sports_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/sports_scholarships.md",
+      "head": "Sports Scholarship Verification Process",
+      "chunkIndex": 4,
+      "wordCount": 79,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_sports_scholarships_5",
+    "text": "Sports Scholarship Terms and Conditions\n- Scholarship is applicable for first year tuition fee only\n- To continue scholarship in 2nd year and beyond: maintain 8.0 CGPA with no backlogs in every semester\n- Sports scholarship cannot be combined with other merit scholarships (ASAT / JEE / EAPCET etc.)\n- Higher of the two scholarships will be applied — student cannot claim both\n- Scholarship is non-transferable\n- Misrepresentation of documents leads to immediate cancellation of scholarship and disciplinary action\n- Students must participate in University sports events and represent Aditya University when called upon",
+    "metadata": {
+      "source": "sports_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/sports_scholarships.md",
+      "head": "Sports Scholarship Terms and Conditions",
+      "chunkIndex": 5,
+      "wordCount": 95,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_sports_scholarships_6",
+    "text": "Sports Scholarship — Renewal Conditions Year Wise\n- 1st Year: Based on National or International participation certificate\n- 2nd Year onwards: Minimum 8.0 CGPA + No backlogs in previous semesters + Continued sports participation\n- Annual review by Sports Scholarship Committee",
+    "metadata": {
+      "source": "sports_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/sports_scholarships.md",
+      "head": "Sports Scholarship — Renewal Conditions Year Wise",
+      "chunkIndex": 6,
+      "wordCount": 41,
+      "lastUpdated": "2026-03"
+    }
+  },
+  {
+    "chunkId": "scholarships_sports_scholarships_7",
+    "text": "Contact for Sports Scholarship Queries\n- Dean of Admissions: Dr. A. Rama Krishna — Cell: 76590 76662\n- Associate Dean of Admissions: Dr. R. Giri Prasad — Cell: 70950 76663\n- Sports Department: Contact University Sports Office at Surampalem Campus\n- Campus: Surampalem, East Godavari, Andhra Pradesh",
+    "metadata": {
+      "source": "sports_scholarships",
+      "category": "scholarships",
+      "patth": "knowledge_base/scholarships/sports_scholarships.md",
+      "head": "Contact for Sports Scholarship Queries",
+      "chunkIndex": 7,
+      "wordCount": 47,
+      "lastUpdated": "2026-03"
+    }
+  }
+]

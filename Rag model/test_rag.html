@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>RAG API Test</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: sans-serif; background: #f4f4f4; display: flex; justify-content: center; padding: 40px 16px; }
+    .container { width: 100%; max-width: 720px; }
+    h2 { margin-bottom: 20px; color: #333; }
+    .input-row { display: flex; gap: 8px; }
+    input { flex: 1; padding: 10px 14px; border: 1px solid #ccc; border-radius: 6px; font-size: 15px; }
+    button { padding: 10px 20px; background: #2563eb; color: #fff; border: none; border-radius: 6px; font-size: 15px; cursor: pointer; }
+    button:disabled { background: #93c5fd; cursor: not-allowed; }
+    .answer-box { margin-top: 24px; background: #fff; border: 1px solid #ddd; border-radius: 8px; padding: 16px; min-height: 80px; font-size: 15px; line-height: 1.7; color: #222; white-space: pre-wrap; }
+    .status { margin-top: 8px; font-size: 12px; color: #888; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>RAG API Streaming Test</h2>
+    <div class="input-row">
+      <input id="question" type="text" placeholder="Ask a question..." value="What is the tuition fee for CSE?" />
+      <button id="askBtn" onclick="ask()">Ask</button>
+    </div>
+    <div class="answer-box" id="answer">Answer will appear here...</div>
+    <div class="status" id="status"></div>
+  </div>
+
+  <script>
+    async function ask() {
+      const question = document.getElementById('question').value.trim();
+      if (!question) return;
+
+      const answerEl = document.getElementById('answer');
+      const statusEl = document.getElementById('status');
+      const btn = document.getElementById('askBtn');
+
+      answerEl.textContent = '';
+      statusEl.textContent = 'Connecting...';
+      btn.disabled = true;
+
+      try {
+        const res = await fetch('http://localhost:3001/ask', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ message: question })
+        });
+
+        if (!res.ok) {
+          answerEl.textContent = `Error: ${res.status} ${res.statusText}`;
+          statusEl.textContent = 'Failed.';
+          return;
+        }
+
+        statusEl.textContent = 'Model is thinking...';
+        const reader = res.body.getReader();
+        const decoder = new TextDecoder();
+        let buffer = '';
+        let hasContent = false;
+
+        while (true) {
+          const { done, value } = await reader.read();
+          if (done) break;
+
+          buffer += decoder.decode(value, { stream: true });
+          const lines = buffer.split('\n');
+          buffer = lines.pop(); // keep incomplete line
+
+          for (const line of lines) {
+            if (!line.startsWith('data: ')) continue;
+            const token = line.slice(6);
+            if (token === '[DONE]') {
+              statusEl.textContent = 'Done.';
+              return;
+            }
+            if (token.startsWith('[ERROR]')) {
+              answerEl.textContent = token.replace('[ERROR]', 'Error:');
+              statusEl.textContent = 'Model error.';
+              return;
+            }
+            if (!hasContent) {
+              hasContent = true;
+              statusEl.textContent = 'Streaming...';
+            }
+            answerEl.textContent += token;
+          }
+        }
+
+        statusEl.textContent = 'Done.';
+      } catch (err) {
+        answerEl.textContent = `Connection error: ${err.message}`;
+        statusEl.textContent = 'Failed.';
+      } finally {
+        btn.disabled = false;
+      }
+    }
+
+    document.getElementById('question').addEventListener('keydown', e => {
+      if (e.key === 'Enter') ask();
+    });
+  </script>
+</body>
+</html>
