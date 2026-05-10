@@ -48,14 +48,20 @@ const redisService = {
         cfg.redis.ttlSeconds,
         JSON.stringify(data)
       );
-    } catch (_) { /* non-fatal */ }
+    } catch (err) { 
+      logger.error(`Redis saveSession error: ${err.message}`); 
+      throw err; 
+    }
   },
 
   async getSession(callSid) {
     try {
       const raw = await getClient().get(`session:${callSid}`);
       return raw ? JSON.parse(raw) : null;
-    } catch (_) { return null; }
+    } catch (err) { 
+      logger.error(`Redis getSession error: ${err.message}`); 
+      throw err; 
+    }
   },
 
   async saveHistory(callSid, history) {
@@ -65,20 +71,29 @@ const redisService = {
         cfg.redis.ttlSeconds,
         JSON.stringify(history)
       );
-    } catch (_) { /* non-fatal */ }
+    } catch (err) { 
+      logger.error(`Redis saveHistory error: ${err.message}`); 
+      throw err; 
+    }
   },
 
   async getHistory(callSid) {
     try {
       const raw = await getClient().get(`history:${callSid}`);
       return raw ? JSON.parse(raw) : [];
-    } catch (_) { return []; }
+    } catch (err) { 
+      logger.error(`Redis getHistory error: ${err.message}`); 
+      throw err; 
+    }
   },
 
   async deleteSession(callSid) {
     try {
       await getClient().del(`session:${callSid}`, `history:${callSid}`);
-    } catch (_) { /* non-fatal */ }
+    } catch (err) { 
+      logger.error(`Redis deleteSession error: ${err.message}`); 
+      throw err; 
+    }
   },
 
   async listActiveSessions() {
@@ -90,7 +105,10 @@ const redisService = {
         if (raw) data.push(JSON.parse(raw));
       }
       return data;
-    } catch (_) { return []; }
+    } catch (err) { 
+      logger.error(`Redis listActiveSessions error: ${err.message}`); 
+      throw err; 
+    }
   },
 
   async disconnect() {

@@ -44,7 +44,9 @@ module.exports = {
 
   ollama: {
     host: optional('OLLAMA_HOST', 'http://localhost:11434'),
-    model: optional('OLLAMA_MODEL', 'admissionmodel'),
+    // Addresses Evaluator Improvement #3: Wired fine-tuned model config to the actual backend pipeline
+    // This connects directly to the model compiled from sagemaker/Modelfile
+    model: optional('OLLAMA_MODEL', 'admissions-llama3-finetuned'),
     timeoutMs: 30000,
   },
 

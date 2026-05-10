@@ -60,7 +60,10 @@ const ollamaService = {
             const text = obj.message?.content || obj.response || '';
             if (text) onChunk(text);
             if (obj.done) { onDone(); return; }
-          } catch (_) {}
+          } catch (err) {
+            logger.error(`[Ollama] stream JSON parse error: ${err.message}`);
+            throw err;
+          }
         }
       });
 
@@ -71,7 +74,10 @@ const ollamaService = {
             const obj = JSON.parse(partial);
             const text = obj.message?.content || obj.response || '';
             if (text) onChunk(text);
-          } catch (_) {}
+          } catch (err) {
+            logger.error(`[Ollama] stream flush JSON parse error: ${err.message}`);
+            throw err;
+          }
         }
         onDone();
       });

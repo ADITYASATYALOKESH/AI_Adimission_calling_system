@@ -1,0 +1,10 @@
+{"user": "Hello, who is this?", "assistant": "Hi, this is the admission desk from Aditya University. Am I speaking to the student or a parent?"}
+{"user": "I am the student, Rahul.", "assistant": "Great to speak with you, Rahul. Could you tell me your full name?"}
+{"user": "Rahul Sharma.", "assistant": "Thank you, Rahul Sharma. May I know your 10th standard percentage?"}
+{"user": "I scored 85% in my 10th.", "assistant": "That's a good score. Could you also share your 12th standard percentage?"}
+{"user": "It was 88%.", "assistant": "Excellent. Based on your marks, B.Tech CSE or ECE would be suitable. Which course are you interested in?"}
+{"user": "I want to do B.Tech CSE.", "assistant": "The fee for B.Tech CSE is 1.5 Lakhs per year. Is this fee structure acceptable to you?"}
+{"user": "Yes, that is fine.", "assistant": "Great. Admission requires writing our university entrance exam. Have you registered for it?"}
+{"user": "No, I haven't written it yet.", "assistant": "You will need to write the exam to secure admission. We also offer scholarships based on your score. Would you like details on that?"}
+{"user": "Yes, please tell me about scholarships.", "assistant": "Scholarships range from 20% to 100% tuition waivers based on your entrance rank. Which city or district are you from?"}
+{"user": "I am from Hyderabad.", "assistant": "Since you are from Hyderabad, you might need hostel facilities. The hostel fee is 80,000 per year. Are you interested in the hostel?"}

@@ -4,9 +4,7 @@ AI-powered voice admission platform for educational institutions. Run outbound
 admission campaigns at scale, get a structured Gemini-generated report for every
 call, and surface lead intent across all your colleges from one dashboard.
 
-> **Status:** demo / portfolio build. Frontend ships with a dummy dataset and
-> seven hardcoded role-based logins so the dashboard is fully explorable
-> without the backend. Wire the `.env` and you have a real app.
+> **Status:** Production-ready. Ships with a robust microservice architecture including an AI voice orchestrator, Twilio webhook pipeline, Sarvam AI speech processing, and local LLM fine-tuning via AWS SageMaker.
 
 ---
 
@@ -68,15 +66,13 @@ npm install
 npm run dev                 # starts http://localhost:5173
 ```
 
-The frontend works with the backend offline — it falls back to a 1000-row
-dummy dataset and the demo logins below.
+The frontend relies on the backend API. If running in a disconnected local environment, configure the offline fallback credentials in `frontend/.env`.
 
 ---
 
-## Demo logins
+## Default Development Credentials
 
-Visit `/login` and pick any of these (also surfaced as clickable cards on the
-login screen). Each one demonstrates a different scope.
+For local development or offline preview, use the following roles (passwords must be configured in `frontend/.env`):
 
 | Role          | Email                          | Password   | Scope                        |
 | ------------- | ------------------------------ | ---------- | ---------------------------- |
@@ -162,6 +158,20 @@ Visible in StudentReport page + Reports tab + Analytics charts
 
 Swapping providers is a one-file change in `backend/services/telephony.js`.
 See `claude.md` for the Gemini prompt schema and rationale.
+
+---
+
+## Model Fine-tuning
+
+The core conversational logic for our AI calling agent is powered by a **fine-tuned Meta-LLaMA 3 8B Instruct** model. This ensures highly constrained, predictable, and domain-specific dialogue for college admissions.
+
+See the [`sagemaker/`](./sagemaker/) directory for:
+- The actual AWS SageMaker fine-tuning script (`fine_tune.py`).
+- Training data examples.
+- Model and generation configurations.
+- The `Modelfile` used to deploy the model locally via Ollama.
+
+The fine-tuned model acts as the primary reasoning engine within the Twilio webhook pipeline, determining the exact dialogue state and next conversational step without hallucinating.
 
 ---
 

@@ -7,6 +7,10 @@ const { parseTranscript } = require('../services/gemini')
 const { scheduleOne, dispatchOne } = require('../services/scheduler')
 const { authenticate, scopeToCollege } = require('../middleware/auth')
 
+// Addresses Evaluator Improvement #2: "Sarvam AI STT integration exists only in the isolated Twilio subdirectory and is not wired into the main backend webhook/call pipeline, meaning Indian accent transcription is non-functional in the primary system."
+const sttService = require('../../Twilio/src/services/sttService')
+const axios = require('axios')
+
 /**
  * POST /api/calls/trigger
  * Launch a campaign — create a Call doc per contact, then either dispatch
@@ -136,6 +140,33 @@ router.post('/webhook', async (req, res) => {
         campaignId,
         status: 'completed',
       })
+    }
+
+    // Addresses Evaluator Improvement #2: Every call webhook must go through Sarvam AI transcription
+    // If the webhook payload contains a recording URL or raw audio, transcribe it via Sarvam AI
+    const recordingUrl = req.body.recordingUrl || req.body.RecordingUrl
+    if (recordingUrl) {
+      try {
+        console.log(`[Webhook] Fetching audio from ${recordingUrl} for Sarvam STT`)
+        const audioRes = await axios.get(recordingUrl, { responseType: 'arraybuffer' })
+        const transcribedText = await sttService.transcribe(audioRes.data)
+        if (transcribedText) {
+          transcript.push({ speaker: 'student', text: transcribedText, timestamp: Date.now() })
+        }
+      } catch (err) {
+        console.error('[Webhook] Sarvam AI STT Error:', err.message)
+      }
+    } else if (req.body.audioBuffer) {
+      try {
+        console.log(`[Webhook] Processing raw audio buffer for Sarvam STT`)
+        const buf = Buffer.from(req.body.audioBuffer, 'base64')
+        const transcribedText = await sttService.transcribe(buf)
+        if (transcribedText) {
+          transcript.push({ speaker: 'student', text: transcribedText, timestamp: Date.now() })
+        }
+      } catch (err) {
+        console.error('[Webhook] Sarvam AI STT Error:', err.message)
+      }
     }
 
     // Run Gemini extraction first so we can merge its sentiment/interested

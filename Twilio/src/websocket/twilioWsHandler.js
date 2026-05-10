@@ -146,7 +146,7 @@ function handleTwilioWebSocket(ws, req) {
       }
     }
 
-    try { ws.terminate(); } catch (_) {}
+    try { ws.terminate(); } catch (err) { logger.error(`WS terminate error: ${err.message}`); throw err; }
   }
 }
 

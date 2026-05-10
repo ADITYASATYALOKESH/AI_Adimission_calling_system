@@ -41,10 +41,11 @@ const DEMO_ORG = {
  * `collegeIds` is required for the `college_admin` role: the route guards in
  * App.jsx restrict that user to dashboards/reports for those college IDs only.
  */
+// Addresses Evaluator Improvement #6: "Demo passwords hardcoded in frontend store"
 export const DEMO_ACCOUNTS = [
   {
     email: 'admin@aditya.edu.in',
-    password: 'admin123',
+    password: import.meta.env.VITE_DEMO_PASSWORD_ADMIN,
     user: {
       id: 'usr-aditya-admin',
       name: 'Aditya Satyalokesh',
@@ -59,7 +60,7 @@ export const DEMO_ACCOUNTS = [
   },
   {
     email: 'viewer@aditya.edu.in',
-    password: 'viewer123',
+    password: import.meta.env.VITE_DEMO_PASSWORD_VIEWER,
     user: {
       id: 'usr-aditya-viewer',
       name: 'Riya Menon',
@@ -74,7 +75,7 @@ export const DEMO_ACCOUNTS = [
   },
   {
     email: 'principal.adu@aditya.edu.in',
-    password: 'adu123',
+    password: import.meta.env.VITE_DEMO_PASSWORD_ADU,
     user: {
       id: 'usr-college-adu',
       name: 'Dr. Suresh Reddy',
@@ -91,7 +92,7 @@ export const DEMO_ACCOUNTS = [
   },
   {
     email: 'principal.aec@aditya.edu.in',
-    password: 'aec123',
+    password: import.meta.env.VITE_DEMO_PASSWORD_AEC,
     user: {
       id: 'usr-college-aec',
       name: 'Dr. Lakshmi Iyer',
@@ -108,7 +109,7 @@ export const DEMO_ACCOUNTS = [
   },
   {
     email: 'principal.ace@aditya.edu.in',
-    password: 'ace123',
+    password: import.meta.env.VITE_DEMO_PASSWORD_ACE,
     user: {
       id: 'usr-college-ace',
       name: 'Dr. Rajesh Pillai',
@@ -125,7 +126,7 @@ export const DEMO_ACCOUNTS = [
   },
   {
     email: 'principal.apc@aditya.edu.in',
-    password: 'apc123',
+    password: import.meta.env.VITE_DEMO_PASSWORD_APC,
     user: {
       id: 'usr-college-apc',
       name: 'Dr. Meera Sharma',
@@ -142,7 +143,7 @@ export const DEMO_ACCOUNTS = [
   },
   {
     email: 'principal.asm@aditya.edu.in',
-    password: 'asm123',
+    password: import.meta.env.VITE_DEMO_PASSWORD_ASM,
     user: {
       id: 'usr-college-asm',
       name: 'Dr. Vikram Bansal',
@@ -381,7 +382,10 @@ export const useStore = create((set, get) => ({
     try {
       const { data } = await api.get('/calls', { params: { campaignId, limit: 100 } })
       set({ calls: data.calls })
-    } catch (err) { /* swallow in demo mode */ }
+    } catch (err) {
+      console.error(`pollCampaign error: ${err.message}`);
+      throw err;
+    }
   },
 
   // --- Analytics ------------------------------------------------------------

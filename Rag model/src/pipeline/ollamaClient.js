@@ -54,9 +54,9 @@ async function* streamOllamaResponse(messages, signal) {
       let parsed;
       try {
         parsed = JSON.parse(line);
-      } catch (_) {
-        logger.error('Ollama — unparseable line:', line);
-        continue;
+      } catch (err) {
+        logger.error(`Ollama — unparseable line: ${line}, error: ${err.message}`);
+        throw err;
       }
 
       const token = parsed.message?.content || parsed.response || '';
