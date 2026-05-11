@@ -1,0 +1,9 @@
+export const SAGE = '#7D9B76'
+export const SAGE_DARK = '#4F664A'
+export const SAGE_LIGHT = '#A6BC97'
+export const AMBER = '#C8923A'
+export const AMBER_DARK = '#A87A2C'
+export const INK = '#2C2C2C'
+export const INK_BODY = '#5A5A5A'
+export const INK_MUTED = '#7A7A7A'
+export const COLORS = [SAGE, AMBER, SAGE_LIGHT, AMBER_DARK, SAGE_DARK]

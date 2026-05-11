@@ -4,12 +4,7 @@ import { motion, AnimatePresence } from 'framer-motion'
 import { Building2, User, Mail, Phone, MapPin, Globe, CheckCircle, ArrowRight, ArrowLeft } from 'lucide-react'
 import { useStore } from '../../store/useStore'
 
-const SAGE = '#7D9B76'
-const SAGE_DARK = '#4F664A'
-const AMBER = '#C8923A'
-const INK = '#2C2C2C'
-const INK_BODY = '#5A5A5A'
-const INK_MUTED = '#7A7A7A'
+import { SAGE, SAGE_DARK, SAGE_LIGHT, AMBER, AMBER_DARK, INK, INK_BODY, INK_MUTED, COLORS } from '../../theme'
 
 const STEPS = ['Organisation', 'Administrator', 'Confirm']
 

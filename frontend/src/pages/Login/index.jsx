@@ -11,11 +11,7 @@ const ROLE_META = {
   viewer:        { label: 'Viewer',          color: '#5A5A5A', bg: '#F4F4F2', border: '#E8E8E8', icon: EyeIcon },
 }
 
-const SAGE = '#7D9B76'
-const SAGE_DARK = '#4F664A'
-const INK = '#2C2C2C'
-const INK_BODY = '#5A5A5A'
-const INK_MUTED = '#7A7A7A'
+import { SAGE, SAGE_DARK, SAGE_LIGHT, AMBER, AMBER_DARK, INK, INK_BODY, INK_MUTED, COLORS } from '../../theme'
 
 export default function Login() {
   const navigate = useNavigate()

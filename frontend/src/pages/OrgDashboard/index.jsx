@@ -10,16 +10,7 @@ import { Building2, Phone, TrendingUp, Users, Plus, Eye, MoreVertical, Search, R
 import DashboardLayout from '../../components/DashboardLayout'
 import { useStore } from '../../store/useStore'
 
-const SAGE = '#7D9B76'
-const SAGE_DARK = '#4F664A'
-const SAGE_LIGHT = '#A6BC97'
-const AMBER = '#C8923A'
-const AMBER_DARK = '#A87A2C'
-const INK = '#2C2C2C'
-const INK_BODY = '#5A5A5A'
-const INK_MUTED = '#7A7A7A'
-
-const COLORS = [SAGE, AMBER, SAGE_LIGHT, AMBER_DARK, SAGE_DARK]
+import { SAGE, SAGE_DARK, SAGE_LIGHT, AMBER, AMBER_DARK, INK, INK_BODY, INK_MUTED, COLORS } from '../../theme'
 
 const stagger = (i) => ({ delay: i * 0.1 })
 

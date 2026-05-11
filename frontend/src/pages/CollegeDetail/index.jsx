@@ -18,14 +18,7 @@ import { getStudentsByCollege } from '../../lib/dummyData'
 // college's calls or just slice the static dummy dataset.
 const isMongoId = (s) => typeof s === 'string' && /^[a-f0-9]{24}$/i.test(s)
 
-const SAGE = '#7D9B76'
-const SAGE_DARK = '#4F664A'
-const SAGE_LIGHT = '#A6BC97'
-const AMBER = '#C8923A'
-const AMBER_DARK = '#A87A2C'
-const INK = '#2C2C2C'
-const INK_BODY = '#5A5A5A'
-const INK_MUTED = '#7A7A7A'
+import { SAGE, SAGE_DARK, SAGE_LIGHT, AMBER, AMBER_DARK, INK, INK_BODY, INK_MUTED, COLORS } from '../../theme'
 
 const PIE_COLORS = [SAGE, AMBER, SAGE_LIGHT, AMBER_DARK, SAGE_DARK]
 const TOOLTIP = { background: '#FFFFFF', border: '1px solid #E8E8E8', borderRadius: 10, color: INK, boxShadow: '0 8px 24px rgba(0,0,0,0.08)' }

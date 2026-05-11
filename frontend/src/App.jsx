@@ -12,6 +12,7 @@ import Settings from './pages/Settings'
 import Profile from './pages/Profile'
 import Colleges from './pages/Colleges'
 import CollegeDetail from './pages/CollegeDetail'
+import LiveMonitoring from './pages/LiveMonitoring'
 import { useStore } from './store/useStore'
 
 /**
@@ -98,6 +99,7 @@ export default function App() {
         <Route path="/dashboard/colleges"    element={<OrgOnlyRoute><Colleges /></OrgOnlyRoute>} />
         <Route path="/dashboard/colleges/:id" element={<OrgOnlyRoute><CollegeDetail /></OrgOnlyRoute>} />
         <Route path="/dashboard/analytics"   element={<OrgOnlyRoute><Analytics /></OrgOnlyRoute>} />
+        <Route path="/dashboard/live"        element={<OrgOnlyRoute><LiveMonitoring /></OrgOnlyRoute>} />
         <Route path="/dashboard/team"        element={<OrgOnlyRoute><Team /></OrgOnlyRoute>} />
 
         {/* Per-college views — college_admin restricted to their own */}

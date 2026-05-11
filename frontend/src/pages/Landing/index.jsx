@@ -11,13 +11,7 @@ import {
 
 gsap.registerPlugin(ScrollTrigger)
 
-const SAGE = '#7D9B76'
-const SAGE_DARK = '#4F664A'
-const AMBER = '#C8923A'
-const AMBER_DARK = '#A87A2C'
-const INK = '#2C2C2C'
-const INK_BODY = '#5A5A5A'
-const INK_MUTED = '#7A7A7A'
+import { SAGE, SAGE_DARK, SAGE_LIGHT, AMBER, AMBER_DARK, INK, INK_BODY, INK_MUTED, COLORS } from '../../theme'
 
 const WAVE_HEIGHTS = [20, 45, 65, 30, 55, 80, 35, 60, 25, 70, 40, 55, 30, 75, 45, 60, 35, 80, 20, 50]
 

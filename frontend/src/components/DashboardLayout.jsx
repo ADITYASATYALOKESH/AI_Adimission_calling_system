@@ -5,13 +5,14 @@ import { useStore } from '../store/useStore'
 import {
   Phone, LayoutDashboard, Building2, BarChart3, Users,
   Settings, LogOut, Bell, ChevronDown, Menu, User as UserIcon,
-  TrendingUp, AlertCircle, CheckCircle, FileText,
+  TrendingUp, AlertCircle, CheckCircle, FileText, Activity
 } from 'lucide-react'
 
 const NAV_ORG = [
   { path: '/dashboard',           label: 'Overview',  icon: LayoutDashboard },
   { path: '/dashboard/colleges',  label: 'Colleges',  icon: Building2 },
   { path: '/dashboard/analytics', label: 'Analytics', icon: BarChart3 },
+  { path: '/dashboard/live',      label: 'Live Calls',icon: Activity },
   { path: '/dashboard/team',      label: 'Team',      icon: Users },
   { path: '/dashboard/profile',   label: 'Profile',   icon: UserIcon },
   { path: '/dashboard/settings',  label: 'Settings',  icon: Settings },
